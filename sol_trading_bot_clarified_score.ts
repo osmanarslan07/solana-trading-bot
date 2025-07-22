@@ -30,7 +30,7 @@ const binance = Binance({
 
 async function getTradableSymbols(): Promise<string[]> {
   const res = await axios.get('https://api.binance.com/api/v3/exchangeInfo');
-  const symbols = res.data.symbols;
+  const symbols = (res.data as { symbols: any[] }).symbols;
 
   return symbols
     .filter((s: any) =>
@@ -44,7 +44,8 @@ async function getTradableSymbols(): Promise<string[]> {
 
 async function filterHighVolumeSymbols(symbols: string[]): Promise<string[]> {
   const { data } = await axios.get('https://api.binance.com/api/v3/ticker/24hr');
-  const highVolume = data
+  const tickers: any[] = data as any[];
+  const highVolume = tickers
     .filter((ticker: any) =>
       symbols.includes(ticker.symbol) &&
       parseFloat(ticker.quoteVolume) > 1000000
