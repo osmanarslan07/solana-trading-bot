@@ -2,7 +2,7 @@ services:
   - type: web
     name: leonos-dashboard
     env: node
-    rootDir: solana-trading-bot/dashboard
+    rootDir: dashboard
     buildCommand: npm install
     startCommand: node server.js
     envVars:
@@ -16,7 +16,7 @@ services:
   - type: worker
     name: leonos-trading-bot
     env: node
-    rootDir: solana-trading-bot
+    rootDir: .
     buildCommand: npm install
     startCommand: npx ts-node sol_trading_bot_clarified_score.ts
     envVars:
