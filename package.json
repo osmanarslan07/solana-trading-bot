@@ -17,6 +17,8 @@
     "technicalindicators": "^3.1.0"
   },
   "scripts": {
-    "start": "node bot-server.js"
-  }
+  "start": "node bot-server.js",
+  "build": "tsc"
+}
+
 }
