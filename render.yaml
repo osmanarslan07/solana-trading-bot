@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: leonos-dashboard
+    env: node
+    rootDir: solana-trading-bot/dashboard
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: DASHBOARD_USER
+        value: leonos
+      - key: DASHBOARD_PASS
+        value: TradeLeonoswinwinwin
+
+  - type: worker
+    name: leonos-trading-bot
+    env: node
+    rootDir: solana-trading-bot
+    buildCommand: npm install
+    startCommand: npx ts-node sol_trading_bot_clarified_score.ts
+    envVars:
+      - key: DASHBOARD_USER
+        value: leonos
+      - key: DASHBOARD_PASS
+        value: TradeLeonoswinwinwin

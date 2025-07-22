@@ -1,0 +1,467 @@
+[2025-02-02 16:17:00] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 16:17:00] Volume: 3059.826, Volume MA: 13215.57878
+[2025-02-02 16:17:00] MA9: 209.81333333333333, MA21: 209.69428571428585, RSI: 47.69, MACD: -0.005512820512933558, ATR: 1.0403700619580916
+[2025-02-02 16:17:00] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17404855, Current SOL Price: 209.95
+[2025-02-02 16:16:59] ****************************************************************
+[2025-02-02 16:13:59] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 16:13:59] Volume: 12726.618, Volume MA: 13281.861679999998
+[2025-02-02 16:13:59] MA9: 209.76, MA21: 209.70904761904777, RSI: 52.38, MACD: -0.010705128205245273, ATR: 1.0396785132905233
+[2025-02-02 16:13:59] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17470346, Current SOL Price: 210.74
+[2025-02-02 16:13:59] ****************************************************************
+[2025-02-02 16:10:59] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 16:10:59] Volume: 4006.214, Volume MA: 13107.453599999999
+[2025-02-02 16:10:59] MA9: 209.79, MA21: 209.72190476190494, RSI: 53.95, MACD: 0.0014102564101676762, ATR: 1.0232499418619525
+[2025-02-02 16:10:58] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17492728999999999, Current SOL Price: 211.01
+[2025-02-02 16:10:58] ****************************************************************
+[2025-02-02 16:07:58] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: true
+[2025-02-02 16:07:58] Volume: 24100.706, Volume MA: 13182.19552
+[2025-02-02 16:07:58] MA9: 209.6622222222222, MA21: 209.6433333333335, RSI: 52.37, MACD: -0.03935897435903257, ATR: 1.0688958271095994
+[2025-02-02 16:07:58] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17469516999999998, Current SOL Price: 210.73
+[2025-02-02 16:07:57] ****************************************************************
+[2025-02-02 16:04:57] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: true
+[2025-02-02 16:04:57] Volume: 19825.612, Volume MA: 12946.225079999997
+[2025-02-02 16:04:57] MA9: 209.63888888888886, MA21: 209.6204761904763, RSI: 47.68, MACD: -0.09051282051288467, ATR: 1.0535658940555874
+[2025-02-02 16:04:57] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17405684, Current SOL Price: 209.96
+[2025-02-02 16:04:56] ****************************************************************
+[2025-02-02 16:01:56] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 16:01:56] Volume: 8558.307, Volume MA: 12720.878979999998
+[2025-02-02 16:01:56] MA9: 209.57888888888886, MA21: 209.59476190476204, RSI: 44.28, MACD: -0.11474358974362531, ATR: 1.0149944654841574
+[2025-02-02 16:01:56] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17360917999999997, Current SOL Price: 209.42
+[2025-02-02 16:01:56] ****************************************************************
+[2025-02-02 15:58:56] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:58:56] Volume: 14075.045, Volume MA: 12738.950519999999
+[2025-02-02 15:58:56] MA9: 209.70777777777778, MA21: 209.69428571428585, RSI: 37.36, MACD: -0.16916666666671176, ATR: 1.0013051474619152
+[2025-02-02 15:58:56] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17294598, Current SOL Price: 208.62
+[2025-02-02 15:58:55] ****************************************************************
+[2025-02-02 15:55:55] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:55:55] Volume: 2121.925, Volume MA: 12499.88812
+[2025-02-02 15:55:55] MA9: 209.76111111111106, MA21: 209.71714285714302, RSI: 39.94, MACD: -0.14762820512828512, ATR: 0.9534480046047732
+[2025-02-02 15:55:55] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1733439, Current SOL Price: 209.1
+[2025-02-02 15:55:54] ****************************************************************
+[2025-02-02 15:52:54] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:52:54] Volume: 6811.408, Volume MA: 12435.985420000005
+[2025-02-02 15:52:54] MA9: 210.00444444444443, MA21: 209.82904761904774, RSI: 43.14, MACD: -0.3098076923077713, ATR: 0.9770706133376159
+[2025-02-02 15:52:54] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17379155999999998, Current SOL Price: 209.64
+[2025-02-02 15:52:54] ****************************************************************
+[2025-02-02 15:49:54] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:49:53] Volume: 11510.461, Volume MA: 12628.31566
+[2025-02-02 15:49:53] MA9: 210.1122222222222, MA21: 209.9009523809525, RSI: 46.08, MACD: -0.471474358974433, ATR: 1.0003108594027024
+[2025-02-02 15:49:53] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17413974, Current SOL Price: 210.06
+[2025-02-02 15:49:53] ****************************************************************
+[2025-02-02 15:46:53] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:46:53] Volume: 3841.128, Volume MA: 12474.929000000002
+[2025-02-02 15:46:53] MA9: 210.09555555555553, MA21: 209.89380952380964, RSI: 45.11, MACD: -0.47820512820518957, ATR: 0.9724537165455585
+[2025-02-02 15:46:53] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17401539, Current SOL Price: 209.91
+[2025-02-02 15:46:52] ****************************************************************
+[2025-02-02 15:43:52] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:43:52] Volume: 13665.077, Volume MA: 12907.301200000002
+[2025-02-02 15:43:52] MA9: 210.06888888888886, MA21: 209.97904761904772, RSI: 45.71, MACD: -0.672051282051342, ATR: 1.0063695926677063
+[2025-02-02 15:43:52] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17411487, Current SOL Price: 210.03
+[2025-02-02 15:43:51] ****************************************************************
+[2025-02-02 15:40:51] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:40:51] Volume: 2964.622, Volume MA: 12693.292099999999
+[2025-02-02 15:40:51] MA9: 210.05555555555554, MA21: 209.97333333333344, RSI: 44.76, MACD: -0.67743589743597, ATR: 0.9777981640962774
+[2025-02-02 15:40:51] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17401539, Current SOL Price: 209.91
+[2025-02-02 15:40:51] ****************************************************************
+[2025-02-02 15:37:51] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:37:51] Volume: 5003.34, Volume MA: 13380.999400000004
+[2025-02-02 15:37:51] MA9: 209.95666666666668, MA21: 210.08904761904765, RSI: 41.52, MACD: -0.8380128205128301, ATR: 0.9544305938186861
+[2025-02-02 15:37:51] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17365892, Current SOL Price: 209.48
+[2025-02-02 15:37:50] ****************************************************************
+[2025-02-02 15:34:50] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:34:50] Volume: 17583.398, Volume MA: 13469.275340000004
+[2025-02-02 15:34:50] MA9: 209.89888888888885, MA21: 210.22238095238095, RSI: 38.87, MACD: -0.963076923076926, ATR: 0.9816210489885616
+[2025-02-02 15:34:50] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1733439, Current SOL Price: 209.1
+[2025-02-02 15:34:49] ****************************************************************
+[2025-02-02 15:31:49] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:31:49] Volume: 9545.704, Volume MA: 13308.521460000004
+[2025-02-02 15:31:49] MA9: 209.91888888888886, MA21: 210.23095238095235, RSI: 39.88, MACD: -0.9549999999999557, ATR: 0.9787639061314173
+[2025-02-02 15:31:49] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17349312, Current SOL Price: 209.28
+[2025-02-02 15:31:49] ****************************************************************
+[2025-02-02 15:28:49] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:28:49] Volume: 5636.72, Volume MA: 13264.470920000007
+[2025-02-02 15:28:49] MA9: 209.90777777777774, MA21: 210.42190476190476, RSI: 48.32, MACD: -0.976987179487196, ATR: 0.9621382290014622
+[2025-02-02 15:28:49] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17457082000000002, Current SOL Price: 210.58
+[2025-02-02 15:28:48] ****************************************************************
+[2025-02-02 15:25:48] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:25:48] Volume: 2793.47, Volume MA: 13207.605920000007
+[2025-02-02 15:25:48] MA9: 209.9144444444444, MA21: 210.4247619047619, RSI: 48.8, MACD: -0.9742948717949105, ATR: 0.9578525147157497
+[2025-02-02 15:25:48] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17462055999999998, Current SOL Price: 210.64
+[2025-02-02 15:25:48] ****************************************************************
+[2025-02-02 15:22:48] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:22:48] Volume: 8353.841, Volume MA: 13517.399180000006
+[2025-02-02 15:22:48] MA9: 209.61888888888885, MA21: 210.48095238095235, RSI: 44.57, MACD: -1.1696794871794793, ATR: 0.9868430332832788
+[2025-02-02 15:22:48] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17407341999999998, Current SOL Price: 209.98
+[2025-02-02 15:22:47] ****************************************************************
+[2025-02-02 15:19:47] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:19:47] Volume: 10706.925, Volume MA: 13508.565080000006
+[2025-02-02 15:19:47] MA9: 209.54444444444442, MA21: 210.57809523809524, RSI: 48.28, MACD: -1.2489743589743796, ATR: 1.0199317115848694
+[2025-02-02 15:19:47] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17447963, Current SOL Price: 210.47
+[2025-02-02 15:19:46] ****************************************************************
+[2025-02-02 15:16:46] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 15:16:46] Volume: 4438.135, Volume MA: 13383.189280000006
+[2025-02-02 15:16:46] MA9: 209.56555555555553, MA21: 210.58714285714285, RSI: 49.64, MACD: -1.2404487179487091, ATR: 0.987788854442013
+[2025-02-02 15:16:46] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17463714, Current SOL Price: 210.66
+[2025-02-02 15:16:46] ****************************************************************
+[2025-02-02 15:13:46] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 15:13:46] Volume: 7947.258, Volume MA: 13458.407840000005
+[2025-02-02 15:13:46] MA9: 209.47555555555553, MA21: 210.61761904761903, RSI: 51.92, MACD: -1.2914743589743125, ATR: 1.0121510387174708
+[2025-02-02 15:13:46] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17491071, Current SOL Price: 210.99
+[2025-02-02 15:13:45] ****************************************************************
+[2025-02-02 15:10:45] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 15:10:45] Volume: 1282.265, Volume MA: 13325.107980000004
+[2025-02-02 15:10:45] MA9: 209.4211111111111, MA21: 210.5942857142857, RSI: 48.31, MACD: -1.3134615384615245, ATR: 0.9850081815746119
+[2025-02-02 15:10:45] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1745045, Current SOL Price: 210.5
+[2025-02-02 15:10:45] ****************************************************************
+[2025-02-02 15:07:45] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 15:07:45] Volume: 9249.993, Volume MA: 13337.312200000004
+[2025-02-02 15:07:45] MA9: 209.27666666666664, MA21: 210.6480952380952, RSI: 46.92, MACD: -1.3744230769230228, ATR: 0.9912995586299196
+[2025-02-02 15:07:45] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17439673, Current SOL Price: 210.37
+[2025-02-02 15:07:44] ****************************************************************
+[2025-02-02 15:04:44] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 15:04:44] Volume: 18366.436, Volume MA: 13169.534180000002
+[2025-02-02 15:04:44] MA9: 209.2544444444444, MA21: 210.71761904761908, RSI: 43.08, MACD: -1.4337820512820372, ATR: 1.0035151982251247
+[2025-02-02 15:04:44] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1740071, Current SOL Price: 209.9
+[2025-02-02 15:04:43] ****************************************************************
+[2025-02-02 15:01:43] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 15:01:43] Volume: 7151.623, Volume MA: 12945.237920000003
+[2025-02-02 15:01:43] MA9: 209.1044444444444, MA21: 210.6533333333334, RSI: 29.79, MACD: -1.4943589743589598, ATR: 0.9163723410822676
+[2025-02-02 15:01:43] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17288795, Current SOL Price: 208.55
+[2025-02-02 15:01:43] ****************************************************************
+[2025-02-02 14:58:43] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:58:43] Volume: 6965.983, Volume MA: 12851.979100000002
+[2025-02-02 14:58:43] MA9: 209.40999999999997, MA21: 210.8552380952381, RSI: 30.68, MACD: -1.4053846153846052, ATR: 0.9297973912978555
+[2025-02-02 14:58:43] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17307862, Current SOL Price: 208.78
+[2025-02-02 14:58:42] ****************************************************************
+[2025-02-02 14:55:42] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:55:42] Volume: 1757.593, Volume MA: 12747.811300000001
+[2025-02-02 14:55:42] MA9: 209.46333333333328, MA21: 210.87809523809526, RSI: 35.12, MACD: -1.3838461538461786, ATR: 0.9019402484407136
+[2025-02-02 14:55:42] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17347653999999998, Current SOL Price: 209.26
+[2025-02-02 14:55:41] ****************************************************************
+[2025-02-02 14:52:41] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:52:41] Volume: 12740.404, Volume MA: 12562.546160000002
+[2025-02-02 14:52:41] MA9: 209.7022222222222, MA21: 211.0538095238095, RSI: 33.84, MACD: -1.334102564102551, ATR: 0.9248074161535418
+[2025-02-02 14:52:41] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17341022, Current SOL Price: 209.18
+[2025-02-02 14:52:41] ****************************************************************
+[2025-02-02 14:49:41] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: true
+[2025-02-02 14:49:41] Volume: 28648.393, Volume MA: 12430.737160000002
+[2025-02-02 14:49:41] MA9: 209.9333333333333, MA21: 211.24333333333323, RSI: 27.37, MACD: -1.2781410256409913, ATR: 0.9125998284218506
+[2025-02-02 14:49:41] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17297085, Current SOL Price: 208.65
+[2025-02-02 14:49:40] ****************************************************************
+[2025-02-02 14:46:40] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:46:40] Volume: 12149.894, Volume MA: 12100.76718
+[2025-02-02 14:46:40] MA9: 209.88333333333333, MA21: 211.22190476190468, RSI: 23.99, MACD: -1.2983333333333178, ATR: 0.8818855427075665
+[2025-02-02 14:46:40] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1725978, Current SOL Price: 208.2
+[2025-02-02 14:46:40] ****************************************************************
+[2025-02-02 14:43:40] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:43:40] Volume: 14682.072, Volume MA: 11663.290260000003
+[2025-02-02 14:43:40] MA9: 210.39555555555552, MA21: 211.50238095238086, RSI: 30.37, MACD: -1.1089102564102689, ATR: 0.825011203207447
+[2025-02-02 14:43:40] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17352627999999998, Current SOL Price: 209.32
+[2025-02-02 14:43:39] ****************************************************************
+[2025-02-02 14:40:39] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:40:39] Volume: 1396.172, Volume MA: 11397.572260000003
+[2025-02-02 14:40:39] MA9: 210.43555555555554, MA21: 211.51952380952375, RSI: 34.36, MACD: -1.0927564102564702, ATR: 0.8092969174931613
+[2025-02-02 14:40:39] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17382472000000002, Current SOL Price: 209.68
+[2025-02-02 14:40:38] ****************************************************************
+[2025-02-02 14:37:38] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:37:38] Volume: 12179.188, Volume MA: 11471.6728
+[2025-02-02 14:37:38] MA9: 210.6822222222222, MA21: 211.70666666666662, RSI: 26.98, MACD: -1.01391025641027, ATR: 0.8216559538716927
+[2025-02-02 14:37:38] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17326929, Current SOL Price: 209.01
+[2025-02-02 14:37:38] ****************************************************************
+[2025-02-02 14:34:38] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:34:38] Volume: 14315.401, Volume MA: 11460.108559999999
+[2025-02-02 14:34:38] MA9: 211.03999999999996, MA21: 211.9285714285714, RSI: 30.81, MACD: -0.9546794871793907, ATR: 0.7743482818284866
+[2025-02-02 14:34:38] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17395736, Current SOL Price: 209.84
+[2025-02-02 14:34:37] ****************************************************************
+[2025-02-02 14:31:37] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:31:37] Volume: 3633.584, Volume MA: 11246.472220000001
+[2025-02-02 14:31:37] MA9: 211.07999999999998, MA21: 211.94571428571422, RSI: 34.92, MACD: -0.9385256410255636, ATR: 0.7657768532570577
+[2025-02-02 14:31:37] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1742558, Current SOL Price: 210.2
+[2025-02-02 14:31:37] ****************************************************************
+[2025-02-02 14:28:37] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:28:37] Volume: 15618.347, Volume MA: 11099.691859999999
+[2025-02-02 14:28:37] MA9: 211.35666666666665, MA21: 212.1333333333332, RSI: 25.84, MACD: -0.9667307692306224, ATR: 0.7592258567006955
+[2025-02-02 14:28:37] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17365892, Current SOL Price: 209.48
+[2025-02-02 14:28:36] ****************************************************************
+[2025-02-02 14:25:36] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:25:36] Volume: 1259.767, Volume MA: 10812.520260000001
+[2025-02-02 14:25:36] MA9: 211.44666666666663, MA21: 212.17190476190467, RSI: 30.8, MACD: -0.9303846153844688, ATR: 0.7056544281292669
+[2025-02-02 14:25:36] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17433041, Current SOL Price: 210.29
+[2025-02-02 14:25:35] ****************************************************************
+[2025-02-02 14:22:35] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 14:22:35] Volume: 16060.288, Volume MA: 10997.270260000001
+[2025-02-02 14:22:35] MA9: 211.70888888888885, MA21: 212.38904761904755, RSI: 31.52, MACD: -0.8976282051281146, ATR: 0.7196431698615301
+[2025-02-02 14:22:35] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17453765999999998, Current SOL Price: 210.54
+[2025-02-02 14:22:35] ****************************************************************
+[2025-02-02 14:19:35] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:19:35] Volume: 9075.518, Volume MA: 10744.204020000003
+[2025-02-02 14:19:35] MA9: 211.8477777777778, MA21: 212.55476190476188, RSI: 35.08, MACD: -0.9405769230768612, ATR: 0.7145119168739453
+[2025-02-02 14:19:35] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17505992999999997, Current SOL Price: 211.17
+[2025-02-02 14:19:34] ****************************************************************
+[2025-02-02 14:16:34] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:16:34] Volume: 3719.124, Volume MA: 10637.076140000001
+[2025-02-02 14:16:34] MA9: 211.86222222222221, MA21: 212.56095238095236, RSI: 36.66, MACD: -0.9347435897435048, ATR: 0.700940488302517
+[2025-02-02 14:16:34] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1751677, Current SOL Price: 211.3
+[2025-02-02 14:16:33] ****************************************************************
+[2025-02-02 14:13:33] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:13:33] Volume: 5545.308, Volume MA: 10772.82092
+[2025-02-02 14:13:33] MA9: 211.8311111111111, MA21: 212.63571428571427, RSI: 33.94, MACD: -0.9482692307691707, ATR: 0.7396128963928594
+[2025-02-02 14:13:33] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17481123, Current SOL Price: 210.87
+[2025-02-02 14:13:33] ****************************************************************
+[2025-02-02 14:10:33] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:10:33] Volume: 684.953, Volume MA: 10675.61382
+[2025-02-02 14:10:33] MA9: 211.84888888888887, MA21: 212.6433333333333, RSI: 34.94, MACD: -0.9410897435896572, ATR: 0.7267557535357182
+[2025-02-02 14:10:33] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17494387, Current SOL Price: 211.03
+[2025-02-02 14:10:32] ****************************************************************
+[2025-02-02 14:07:32] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 14:07:32] Volume: 1986.758, Volume MA: 10696.879359999999
+[2025-02-02 14:07:32] MA9: 211.99777777777777, MA21: 212.7819047619047, RSI: 39.12, MACD: -0.9177564102563167, ATR: 0.7277088523601281
+[2025-02-02 14:07:32] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17545785, Current SOL Price: 211.65
+[2025-02-02 14:07:32] ****************************************************************
+[2025-02-02 14:04:32] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: true
+[2025-02-02 14:04:32] Volume: 19923.626, Volume MA: 10738.06424
+[2025-02-02 14:04:32] MA9: 212.02555555555548, MA21: 212.8666666666667, RSI: 41.6, MACD: -0.9307692307691866, ATR: 0.7417263601783426
+[2025-02-02 14:04:32] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.175748, Current SOL Price: 212
+[2025-02-02 14:04:31] ****************************************************************
+[2025-02-02 14:01:31] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: true
+[2025-02-02 14:01:31] Volume: 16445.825, Volume MA: 10668.50822
+[2025-02-02 14:01:31] MA9: 211.99111111111105, MA21: 212.8519047619048, RSI: 39.27, MACD: -0.9446794871793998, ATR: 0.7274406458926291
+[2025-02-02 14:01:31] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17549101, Current SOL Price: 211.69
+[2025-02-02 14:01:30] ****************************************************************
+[2025-02-02 13:58:30] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:58:30] Volume: 5455.184, Volume MA: 10498.3913
+[2025-02-02 13:58:30] MA9: 212.10444444444443, MA21: 212.93428571428575, RSI: 41.67, MACD: -0.9412179487178491, ATR: 0.7081832113548278
+[2025-02-02 13:58:30] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17576458, Current SOL Price: 212.02
+[2025-02-02 13:58:30] ****************************************************************
+[2025-02-02 13:55:30] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:55:30] Volume: 211.376, Volume MA: 10393.515139999998
+[2025-02-02 13:55:30] MA9: 212.13444444444443, MA21: 212.94714285714286, RSI: 43.81, MACD: -0.9291025641024362, ATR: 0.6867546399262555
+[2025-02-02 13:55:30] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17598840999999998, Current SOL Price: 212.29
+[2025-02-02 13:55:29] ****************************************************************
+[2025-02-02 13:52:29] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:52:29] Volume: 2299.216, Volume MA: 10522.554039999999
+[2025-02-02 13:52:29] MA9: 212.2244444444444, MA21: 213.06809523809525, RSI: 47.11, MACD: -0.901858974358845, ATR: 0.711652484102691
+[2025-02-02 13:52:29] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17628685, Current SOL Price: 212.65
+[2025-02-02 13:52:28] ****************************************************************
+[2025-02-02 13:49:28] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:49:28] Volume: 9069.376, Volume MA: 10604.42376
+[2025-02-02 13:49:28] MA9: 212.29444444444437, MA21: 213.15428571428575, RSI: 49.05, MACD: -0.8935256410255761, ATR: 0.7486123336713567
+[2025-02-02 13:49:28] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17647752, Current SOL Price: 212.88
+[2025-02-02 13:49:28] ****************************************************************
+[2025-02-02 13:46:28] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:46:28] Volume: 5235.917, Volume MA: 10527.754579999999
+[2025-02-02 13:46:28] MA9: 212.3266666666666, MA21: 213.16809523809528, RSI: 51.45, MACD: -0.8805128205127346, ATR: 0.7486123336713567
+[2025-02-02 13:46:28] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17671793, Current SOL Price: 213.17
+[2025-02-02 13:46:27] ****************************************************************
+[2025-02-02 13:43:27] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:43:27] Volume: 4945.626, Volume MA: 10568.48218
+[2025-02-02 13:43:27] MA9: 212.33111111111103, MA21: 213.23619047619047, RSI: 43.57, MACD: -0.8696794871794964, ATR: 0.7219921114773341
+[2025-02-02 13:43:27] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17598012, Current SOL Price: 212.28
+[2025-02-02 13:43:26] ****************************************************************
+[2025-02-02 13:40:26] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:40:26] Volume: 351.015, Volume MA: 10476.589960000001
+[2025-02-02 13:40:26] MA9: 212.26222222222216, MA21: 213.20666666666668, RSI: 37.44, MACD: -0.897500000000008, ATR: 0.6862778257630484
+[2025-02-02 13:40:26] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17546614, Current SOL Price: 211.66
+[2025-02-02 13:40:26] ****************************************************************
+[2025-02-02 13:37:26] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:37:26] Volume: 2897.885, Volume MA: 10853.181499999997
+[2025-02-02 13:37:26] MA9: 212.48222222222222, MA21: 213.37238095238095, RSI: 37.36, MACD: -0.7512820512820895, ATR: 0.7190956727343656
+[2025-02-02 13:37:26] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17554075, Current SOL Price: 211.75
+[2025-02-02 13:37:25] ****************************************************************
+[2025-02-02 13:34:25] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:34:25] Volume: 9944.63, Volume MA: 11235.964539999997
+[2025-02-02 13:34:25] MA9: 212.7144444444444, MA21: 213.53095238095236, RSI: 32.88, MACD: -0.5915384615385619, ATR: 0.7249268071028993
+[2025-02-02 13:34:25] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17530034, Current SOL Price: 211.46
+[2025-02-02 13:34:24] ****************************************************************
+[2025-02-02 13:31:24] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: true, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:31:24] Volume: 1597.673, Volume MA: 11069.025399999995
+[2025-02-02 13:31:24] MA9: 212.74222222222218, MA21: 213.54285714285712, RSI: 34.46, MACD: -0.5803205128206059, ATR: 0.6984982356743275
+[2025-02-02 13:31:24] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17550759, Current SOL Price: 211.71
+[2025-02-02 13:31:24] ****************************************************************
+[2025-02-02 13:28:24] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:28:24] Volume: 4876.528, Volume MA: 11191.685899999999
+[2025-02-02 13:28:24] MA9: 213.03555555555556, MA21: 213.71285714285716, RSI: 38.22, MACD: -0.511923076923182, ATR: 0.7338289272144874
+[2025-02-02 13:28:24] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17584748, Current SOL Price: 212.12
+[2025-02-02 13:28:23] ****************************************************************
+[2025-02-02 13:25:23] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:25:23] Volume: 376.514, Volume MA: 11101.685619999997
+[2025-02-02 13:25:23] MA9: 213.01444444444445, MA21: 213.70380952380955, RSI: 36.01, MACD: -0.520448717948824, ATR: 0.7159717843573447
+[2025-02-02 13:25:23] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17568997, Current SOL Price: 211.93
+[2025-02-02 13:25:21] ****************************************************************
+[2025-02-02 13:22:21] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: true
+[2025-02-02 13:22:21] Volume: 41021.205, Volume MA: 11047.604919999998
+[2025-02-02 13:22:21] MA9: 213.33333333333337, MA21: 213.86190476190473, RSI: 37.85, MACD: -0.38538461538465185, ATR: 0.7418172184382161
+[2025-02-02 13:22:21] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17587235, Current SOL Price: 212.15
+[2025-02-02 13:22:20] ****************************************************************
+[2025-02-02 13:19:20] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:19:20] Volume: 3573.804, Volume MA: 10530.147059999998
+[2025-02-02 13:19:20] MA9: 213.53999999999996, MA21: 213.9961904761905, RSI: 41.4, MACD: -0.2512179487179935, ATR: 0.7269528366459361
+[2025-02-02 13:19:20] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17628685, Current SOL Price: 212.65
+[2025-02-02 13:19:20] ****************************************************************
+[2025-02-02 13:16:20] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:16:20] Volume: 1168.43, Volume MA: 10482.039579999999
+[2025-02-02 13:16:20] MA9: 213.53555555555553, MA21: 213.99428571428572, RSI: 41.09, MACD: -0.253012820512879, ATR: 0.7105242652173634
+[2025-02-02 13:16:20] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17625369000000002, Current SOL Price: 212.61
+[2025-02-02 13:16:19] ****************************************************************
+[2025-02-02 13:13:19] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:13:19] Volume: 3849.898, Volume MA: 10638.929359999998
+[2025-02-02 13:13:19] MA9: 213.66111111111107, MA21: 214.0833333333333, RSI: 46.85, MACD: -0.126346153846157, ATR: 0.7210485130960487
+[2025-02-02 13:13:19] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17680912, Current SOL Price: 213.28
+[2025-02-02 13:13:18] ****************************************************************
+[2025-02-02 13:10:18] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:10:18] Volume: 63.934, Volume MA: 10563.210079999997
+[2025-02-02 13:10:18] MA9: 213.63777777777773, MA21: 214.0733333333333, RSI: 44.75, MACD: -0.13576923076922753, ATR: 0.6967627988103342
+[2025-02-02 13:10:18] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17663503, Current SOL Price: 213.07
+[2025-02-02 13:10:17] ****************************************************************
+[2025-02-02 13:07:17] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:07:17] Volume: 1457.862, Volume MA: 10764.710519999995
+[2025-02-02 13:07:17] MA9: 213.7188888888889, MA21: 214.07095238095238, RSI: 48.29, MACD: 0.027756410256358777, ATR: 0.7409108383985769
+[2025-02-02 13:07:17] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17691689, Current SOL Price: 213.41
+[2025-02-02 13:07:17] ****************************************************************
+[2025-02-02 13:04:17] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:04:17] Volume: 11333.667, Volume MA: 10958.901919999998
+[2025-02-02 13:04:17] MA9: 213.72444444444443, MA21: 214.07238095238097, RSI: 47.62, MACD: 0.1673717948717126, ATR: 0.7562943810401026
+[2025-02-02 13:04:17] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17683399, Current SOL Price: 213.31
+[2025-02-02 13:04:16] ****************************************************************
+[2025-02-02 13:01:16] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 13:01:16] Volume: 1391.903, Volume MA: 10760.06664
+[2025-02-02 13:01:16] MA9: 213.74, MA21: 214.0790476190476, RSI: 48.8, MACD: 0.1736538461537691, ATR: 0.7262943810401015
+[2025-02-02 13:01:16] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17695005, Current SOL Price: 213.45
+[2025-02-02 13:01:16] ****************************************************************
+[2025-02-02 12:58:16] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:58:16] Volume: 10558.604, Volume MA: 10906.4976
+[2025-02-02 12:58:16] MA9: 213.72888888888892, MA21: 214.0157142857143, RSI: 50.66, MACD: 0.3281410256409458, ATR: 0.7554603993476458
+[2025-02-02 12:58:16] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17712413999999999, Current SOL Price: 213.66
+[2025-02-02 12:58:15] ****************************************************************
+[2025-02-02 12:55:15] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:55:15] Volume: 297.713, Volume MA: 10701.279779999999
+[2025-02-02 12:55:15] MA9: 213.74, MA21: 214.02047619047622, RSI: 51.52, MACD: 0.33262820512811686, ATR: 0.73831754220479
+[2025-02-02 12:55:15] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17720703999999998, Current SOL Price: 213.76
+[2025-02-02 12:55:14] ****************************************************************
+[2025-02-02 12:52:14] No Buy Action: Conditions not met. MA9 > MA21: false, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:52:14] Volume: 3588.192, Volume MA: 10831.50976
+[2025-02-02 12:52:14] MA9: 213.81111111111113, MA21: 213.89952380952377, RSI: 51.17, MACD: 0.5238461538461934, ATR: 0.7863632555197129
+[2025-02-02 12:52:14] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17712413999999999, Current SOL Price: 213.66
+[2025-02-02 12:52:14] ****************************************************************
+[2025-02-02 12:49:14] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:49:14] Volume: 5320.004, Volume MA: 10995.839959999996
+[2025-02-02 12:49:14] MA9: 213.89666666666665, MA21: 213.81142857142862, RSI: 56.96, MACD: 0.7076923076923549, ATR: 0.7964435934966009
+[2025-02-02 12:49:14] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1776547, Current SOL Price: 214.3
+[2025-02-02 12:49:13] ****************************************************************
+[2025-02-02 12:46:13] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:46:13] Volume: 1319.642, Volume MA: 10915.832719999997
+[2025-02-02 12:46:13] MA9: 213.89333333333332, MA21: 213.81000000000006, RSI: 56.68, MACD: 0.7063461538461695, ATR: 0.7821578792108874
+[2025-02-02 12:46:13] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17762983000000002, Current SOL Price: 214.27
+[2025-02-02 12:46:12] ****************************************************************
+[2025-02-02 12:43:12] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:43:12] Volume: 3647.651, Volume MA: 11647.276339999999
+[2025-02-02 12:43:12] MA9: 213.91444444444446, MA21: 213.70285714285723, RSI: 57.44, MACD: 0.8698076923077451, ATR: 0.7997288994894733
+[2025-02-02 12:43:12] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17768786, Current SOL Price: 214.34
+[2025-02-02 12:43:12] ****************************************************************
+[2025-02-02 12:40:12] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:40:12] Volume: 212.047, Volume MA: 11578.56426
+[2025-02-02 12:40:12] MA9: 213.8777777777778, MA21: 213.68714285714296, RSI: 54.98, MACD: 0.8550000000000466, ATR: 0.7647288994894748
+[2025-02-02 12:40:12] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17741429, Current SOL Price: 214.01
+[2025-02-02 12:40:11] ****************************************************************
+[2025-02-02 12:37:11] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: false, Volume > 1.5x Volume MA: false
+[2025-02-02 12:37:11] Volume: 4459.705, Volume MA: 12130.538460000002
+[2025-02-02 12:37:11] MA9: 214.00888888888892, MA21: 213.58000000000007, RSI: 55.04, MACD: 1.0147435897436026, ATR: 0.7911338384819592
+[2025-02-02 12:37:11] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17743087, Current SOL Price: 214.03
+[2025-02-02 12:37:11] ****************************************************************
+[2025-02-02 12:34:11] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:34:11] Volume: 3202.681, Volume MA: 12753.36786
+[2025-02-02 12:34:11] MA9: 214.1111111111111, MA21: 213.4785714285715, RSI: 49.22, MACD: 1.1909615384614938, ATR: 0.7884565295909864
+[2025-02-02 12:34:11] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17672622, Current SOL Price: 213.18
+[2025-02-02 12:34:10] ****************************************************************
+[2025-02-02 12:31:10] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:31:10] Volume: 1163.97, Volume MA: 12712.593640000001
+[2025-02-02 12:31:10] MA9: 214.12111111111108, MA21: 213.48285714285726, RSI: 49.97, MACD: 1.1949999999999648, ATR: 0.7791708153052724
+[2025-02-02 12:31:10] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17680083, Current SOL Price: 213.27
+[2025-02-02 12:31:09] ****************************************************************
+[2025-02-02 12:28:09] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:28:09] Volume: 2402.632, Volume MA: 13906.005240000002
+[2025-02-02 12:28:09] MA9: 214.30777777777777, MA21: 213.40904761904767, RSI: 49.83, MACD: 1.2841025641025396, ATR: 0.8149685219211076
+[2025-02-02 12:28:09] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17687544, Current SOL Price: 213.36
+[2025-02-02 12:28:09] ****************************************************************
+[2025-02-02 12:25:09] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:25:09] Volume: 13.436, Volume MA: 13858.221320000002
+[2025-02-02 12:25:09] MA9: 214.31444444444446, MA21: 213.41190476190482, RSI: 50.32, MACD: 1.2867948717948252, ATR: 0.7949685219211075
+[2025-02-02 12:25:09] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17692518, Current SOL Price: 213.42
+[2025-02-02 12:25:08] ****************************************************************
+[2025-02-02 12:22:08] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:22:08] Volume: 2448.223, Volume MA: 15204.04202
+[2025-02-02 12:22:08] MA9: 214.51888888888888, MA21: 213.35238095238094, RSI: 52.73, MACD: 1.2969871794871608, ATR: 0.8364719441583324
+[2025-02-02 12:22:08] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17714901, Current SOL Price: 213.69
+[2025-02-02 12:22:07] ****************************************************************
+[2025-02-02 12:19:07] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:19:07] Volume: 4805.177, Volume MA: 15313.543020000005
+[2025-02-02 12:19:07] MA9: 214.7011111111111, MA21: 213.26857142857148, RSI: 53.61, MACD: 1.30269230769224, ATR: 0.8639246814615776
+[2025-02-02 12:19:07] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17717388, Current SOL Price: 213.72
+[2025-02-02 12:19:07] ****************************************************************
+[2025-02-02 12:16:06] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:16:06] Volume: 1283.22, Volume MA: 15243.103880000002
+[2025-02-02 12:16:06] MA9: 214.73888888888885, MA21: 213.28476190476198, RSI: 56.43, MACD: 1.3179487179486387, ATR: 0.8232103957472904
+[2025-02-02 12:16:06] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17745574, Current SOL Price: 214.06
+[2025-02-02 12:16:06] ****************************************************************
+[2025-02-02 12:13:06] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:13:06] Volume: 3430.586, Volume MA: 15424.188500000004
+[2025-02-02 12:13:06] MA9: 214.74333333333328, MA21: 213.18857142857146, RSI: 60.65, MACD: 1.2349999999999568, ATR: 0.8525526062228459
+[2025-02-02 12:13:06] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17792827, Current SOL Price: 214.63
+[2025-02-02 12:13:05] ****************************************************************
+[2025-02-02 12:10:05] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:10:05] Volume: 40.03, Volume MA: 15356.377380000004
+[2025-02-02 12:10:05] MA9: 214.71111111111108, MA21: 213.17476190476197, RSI: 58.87, MACD: 1.2219871794871437, ATR: 0.8225526062228468
+[2025-02-02 12:10:05] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17768786, Current SOL Price: 214.34
+[2025-02-02 12:10:05] ****************************************************************
+[2025-02-02 12:07:05] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:07:05] Volume: 4073.849, Volume MA: 15565.607780000004
+[2025-02-02 12:07:05] MA9: 214.5322222222222, MA21: 213.0428571428572, RSI: 58.5, MACD: 1.0397435897435798, ATR: 0.8808011836358508
+[2025-02-02 12:07:05] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1776547, Current SOL Price: 214.3
+[2025-02-02 12:07:04] ****************************************************************
+[2025-02-02 12:04:04] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:04:04] Volume: 14056.399, Volume MA: 15647.698299999998
+[2025-02-02 12:04:04] MA9: 214.47333333333333, MA21: 212.9633333333333, RSI: 65.75, MACD: 0.8893589743590837, ATR: 0.9027568741459645
+[2025-02-02 12:04:04] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17825987, Current SOL Price: 215.03
+[2025-02-02 12:04:03] ****************************************************************
+[2025-02-02 12:01:03] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 12:01:03] Volume: 3691.496, Volume MA: 15440.400239999999
+[2025-02-02 12:01:03] MA9: 214.47333333333333, MA21: 212.9633333333333, RSI: 65.75, MACD: 0.8893589743590837, ATR: 0.9027568741459645
+[2025-02-02 12:01:03] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17825987, Current SOL Price: 215.03
+[2025-02-02 12:01:03] ****************************************************************
+[2025-02-02 11:58:03] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:58:03] Volume: 9503.049, Volume MA: 15608.851740000004
+[2025-02-02 11:58:03] MA9: 214.15333333333334, MA21: 212.8180952380952, RSI: 67.14, MACD: 0.7236538461538942, ATR: 0.9154274653441945
+[2025-02-02 11:58:03] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17839251, Current SOL Price: 215.19
+[2025-02-02 11:58:02] ****************************************************************
+[2025-02-02 11:55:02] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:55:02] Volume: 0, Volume MA: 15418.790760000004
+[2025-02-02 11:55:02] MA9: 214.1277777777778, MA21: 212.80714285714285, RSI: 66, MACD: 0.7133333333333667, ATR: 0.8768560367727666
+[2025-02-02 11:55:02] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17820184, Current SOL Price: 214.96
+[2025-02-02 11:55:01] ****************************************************************
+[2025-02-02 11:52:01] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:52:01] Volume: 3318.959, Volume MA: 15472.263939999999
+[2025-02-02 11:52:01] MA9: 213.75666666666666, MA21: 212.7395238095238, RSI: 67.77, MACD: 0.5505128205128926, ATR: 0.92261875736078
+[2025-02-02 11:52:01] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.1784837, Current SOL Price: 215.3
+[2025-02-02 11:52:01] ****************************************************************
+[2025-02-02 11:49:01] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:49:01] Volume: 9765.36, Volume MA: 15534.23544
+[2025-02-02 11:49:01] MA9: 213.35222222222222, MA21: 212.59714285714276, RSI: 66.56, MACD: 0.35910256410264196, ATR: 0.9452071198558962
+[2025-02-02 11:49:01] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17830132, Current SOL Price: 215.08
+[2025-02-02 11:49:00] ****************************************************************
+[2025-02-02 11:46:00] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:46:00] Volume: 2792.757, Volume MA: 15394.78338
+[2025-02-02 11:46:00] MA9: 213.35333333333335, MA21: 212.59761904761896, RSI: 66.6, MACD: 0.35955128205137044, ATR: 0.9394928341416097
+[2025-02-02 11:46:00] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17830961, Current SOL Price: 215.09
+[2025-02-02 11:45:59] ****************************************************************
+[2025-02-02 11:42:59] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:42:59] Volume: 12200.337, Volume MA: 15581.153540000003
+[2025-02-02 11:42:59] MA9: 213.0455555555556, MA21: 212.4790476190476, RSI: 67.01, MACD: 0.19512820512827034, ATR: 0.9711586181248939
+[2025-02-02 11:42:59] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17830961, Current SOL Price: 215.09
+[2025-02-02 11:42:59] Trading bot started...
+[2025-02-02 11:42:59] ----------------------------------------------------------------
+[2025-02-02 11:42:21] No Buy Action: Conditions not met. MA9 > MA21: true, RSI < 35: false, MACD > Signal Line: true, Volume > 1.5x Volume MA: false
+[2025-02-02 11:42:21] Volume: 9342.285, Volume MA: 15523.992500000002
+[2025-02-02 11:42:21] MA9: 213.09555555555562, MA21: 212.50047619047615, RSI: 68.78, MACD: 0.2153205128205684, ATR: 0.9711586181248939
+[2025-02-02 11:42:21] USDT Balance: 41.10163258, SOL Balance: 0.000829, SOL Worth in USDT: 0.17868266, Current SOL Price: 215.54
+[2025-02-02 11:42:20] Trading bot started...
+[2025-02-02 11:42:20] ----------------------------------------------------------------

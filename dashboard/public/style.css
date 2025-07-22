@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 14px 12px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 15px;
+}
+
+th {
+  background-color: #0077cc;
+  color: white;
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.log-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 500px;
+  overflow-y: auto;
+  padding: 10px;
+  background: #f0f2f5;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.log-entry {
+  padding: 10px;
+  background: #fff;
+  border-left: 5px solid #888;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.log-entry.buy     { border-left-color: green; }
+.log-entry.sell    { border-left-color: red; }
+.log-entry.info    { border-left-color: #0077cc; }
+.log-entry.error   { border-left-color: #cc0000; }
+
+.log-header {
+  font-size: 14px;
+  margin-bottom: 4px;
+  color: #555;
+}
+
+.log-msg {
+  font-size: 15px;
+  color: #111;
+}
+
+.bar-green { background-color: green; }
+.bar-orange { background-color: orange; }
+.bar-red { background-color: red; }
+
+.score-green { color: green; font-weight: bold; }
+.score-orange { color: orange; font-weight: bold; }
+.score-red { color: red; font-weight: bold; }
+

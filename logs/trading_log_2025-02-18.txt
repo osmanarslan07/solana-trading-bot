@@ -1,0 +1,1553 @@
+[2025-02-18 15:42:01] Not enough data for XRPUSDT...
+[2025-02-18 15:42:01] Error fetching candles for XRPUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking XRPUSDT...
+[2025-02-18 15:42:01] *****************       XRPUSDT    ***************************
+[2025-02-18 15:42:01] Not enough data for AVAXUSDT...
+[2025-02-18 15:42:01] Error fetching candles for AVAXUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking AVAXUSDT...
+[2025-02-18 15:42:01] *****************       AVAXUSDT    ***************************
+[2025-02-18 15:42:01] Not enough data for SOLUSDT...
+[2025-02-18 15:42:01] Error fetching candles for SOLUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking SOLUSDT...
+[2025-02-18 15:42:01] *****************       SOLUSDT    ***************************
+[2025-02-18 15:42:01] Not enough data for BNBUSDT...
+[2025-02-18 15:42:01] Error fetching candles for BNBUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking BNBUSDT...
+[2025-02-18 15:42:01] *****************       BNBUSDT    ***************************
+[2025-02-18 15:42:01] Not enough data for ETHUSDT...
+[2025-02-18 15:42:01] Error fetching candles for ETHUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking ETHUSDT...
+[2025-02-18 15:42:01] *****************       ETHUSDT    ***************************
+[2025-02-18 15:42:01] Not enough data for BTCUSDT...
+[2025-02-18 15:42:01] Error fetching candles for BTCUSDT: TypeError: fetch failed
+[2025-02-18 15:42:01] Checking BTCUSDT...
+[2025-02-18 15:42:01] *****************       BTCUSDT    ***************************
+[2025-02-18 15:42:01] Error getting balances: TypeError: fetch failed
+[2025-02-18 15:42:01] ****************************************************************
+[2025-02-18 15:42:01] ****************************************************************
+[2025-02-18 15:25:24] Not enough data for XRPUSDT...
+[2025-02-18 15:25:24] Error fetching candles for XRPUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking XRPUSDT...
+[2025-02-18 15:25:24] *****************       XRPUSDT    ***************************
+[2025-02-18 15:25:24] Not enough data for AVAXUSDT...
+[2025-02-18 15:25:24] Error fetching candles for AVAXUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking AVAXUSDT...
+[2025-02-18 15:25:24] *****************       AVAXUSDT    ***************************
+[2025-02-18 15:25:24] Not enough data for SOLUSDT...
+[2025-02-18 15:25:24] Error fetching candles for SOLUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking SOLUSDT...
+[2025-02-18 15:25:24] *****************       SOLUSDT    ***************************
+[2025-02-18 15:25:24] Not enough data for BNBUSDT...
+[2025-02-18 15:25:24] Error fetching candles for BNBUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking BNBUSDT...
+[2025-02-18 15:25:24] *****************       BNBUSDT    ***************************
+[2025-02-18 15:25:24] Not enough data for ETHUSDT...
+[2025-02-18 15:25:24] Error fetching candles for ETHUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking ETHUSDT...
+[2025-02-18 15:25:24] *****************       ETHUSDT    ***************************
+[2025-02-18 15:25:24] Not enough data for BTCUSDT...
+[2025-02-18 15:25:24] Error fetching candles for BTCUSDT: TypeError: fetch failed
+[2025-02-18 15:25:24] Checking BTCUSDT...
+[2025-02-18 15:25:24] *****************       BTCUSDT    ***************************
+[2025-02-18 15:25:24] Error getting balances: TypeError: fetch failed
+[2025-02-18 15:25:24] ****************************************************************
+[2025-02-18 15:25:24] ****************************************************************
+[2025-02-18 15:14:45] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 15:14:45] Volume: 279205, Volume MA: 578882.36
+[2025-02-18 15:14:45] MA9: 2.579322222222222, MA21: 2.583799999999999, RSI: 56.05, MACD: -0.00678589743589697, ATR: 0.008096316928845503
+[2025-02-18 15:14:45] XRPUSDT: Price: 2.5876, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 15:14:45] Checking XRPUSDT...
+[2025-02-18 15:14:45] *****************       XRPUSDT    ***************************
+[2025-02-18 15:14:45] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 15:14:45] Volume: 2596.65, Volume MA: 5086.1092
+[2025-02-18 15:14:45] MA9: 24.004444444444445, MA21: 24.030000000000005, RSI: 52.34, MACD: -0.04153846153845819, ATR: 0.07993844814446333
+[2025-02-18 15:14:45] AVAXUSDT: Price: 24.05, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 15:14:44] Checking AVAXUSDT...
+[2025-02-18 15:14:44] *****************       AVAXUSDT    ***************************
+[2025-02-18 15:14:44] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 15:14:44] Volume: 10588.734, Volume MA: 25551.268260000008
+[2025-02-18 15:14:44] MA9: 168.79888888888888, MA21: 168.62047619047613, RSI: 58.66, MACD: -0.0073076923076484945, ATR: 0.7950935265283836
+[2025-02-18 15:14:44] SOLUSDT: Price: 169.41, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 15:14:44] Checking SOLUSDT...
+[2025-02-18 15:14:44] *****************       SOLUSDT    ***************************
+[2025-02-18 15:14:44] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 15:14:44] Volume: 466.608, Volume MA: 1204.4008200000003
+[2025-02-18 15:14:44] MA9: 655.7666666666668, MA21: 655.0638095238095, RSI: 66.4, MACD: 1.278269230769638, ATR: 1.619128573556025
+[2025-02-18 15:14:44] BNBUSDT: Price: 657.42, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 15:14:44] Checking BNBUSDT...
+[2025-02-18 15:14:44] *****************       BNBUSDT    ***************************
+[2025-02-18 15:14:44] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 15:14:44] Volume: 1147.0246, Volume MA: 1806.510798
+[2025-02-18 15:14:44] MA9: 2686.2000000000003, MA21: 2690.8838095238093, RSI: 48.17, MACD: -4.727307692304748, ATR: 5.693258333662396
+[2025-02-18 15:14:44] ETHUSDT: Price: 2686.9, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 15:14:44] Checking ETHUSDT...
+[2025-02-18 15:14:44] *****************       ETHUSDT    ***************************
+[2025-02-18 15:14:44] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 15:14:44] Volume: 50.36926, Volume MA: 50.17790300000001
+[2025-02-18 15:14:44] MA9: 95698.53999999998, MA21: 95711.85333333335, RSI: 60.99, MACD: -19.81685897434363, ATR: 89.84471859775068
+[2025-02-18 15:14:44] BTCUSDT: Price: 95822.04, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 15:14:43] Checking BTCUSDT...
+[2025-02-18 15:14:43] *****************       BTCUSDT    ***************************
+[2025-02-18 15:14:43] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 15:14:43] ****************************************************************
+[2025-02-18 15:14:43] ****************************************************************
+[2025-02-18 15:04:43] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 15:04:43] Volume: 300826, Volume MA: 588906.88
+[2025-02-18 15:04:43] MA9: 2.577355555555555, MA21: 2.5845333333333333, RSI: 47.37, MACD: -0.008630128205128429, ATR: 0.008087272151093387
+[2025-02-18 15:04:43] XRPUSDT: Price: 2.5788, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 15:04:43] Checking XRPUSDT...
+[2025-02-18 15:04:43] *****************       XRPUSDT    ***************************
+[2025-02-18 15:04:43] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 15:04:43] Volume: 5212.87, Volume MA: 5225.7112
+[2025-02-18 15:04:43] MA9: 23.994444444444444, MA21: 24.035238095238096, RSI: 43.1, MACD: -0.06506410256410433, ATR: 0.07772094429686494
+[2025-02-18 15:04:43] AVAXUSDT: Price: 23.96, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 15:04:42] Checking AVAXUSDT...
+[2025-02-18 15:04:42] *****************       AVAXUSDT    ***************************
+[2025-02-18 15:04:42] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 15:04:42] Volume: 27843.077, Volume MA: 26033.1979
+[2025-02-18 15:04:42] MA9: 168.59555555555545, MA21: 168.58857142857138, RSI: 57.78, MACD: -0.2019230769230944, ATR: 0.7868744247558971
+[2025-02-18 15:04:42] SOLUSDT: Price: 169.09, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 15:04:42] Checking SOLUSDT...
+[2025-02-18 15:04:42] *****************       SOLUSDT    ***************************
+[2025-02-18 15:04:42] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 15:04:42] Volume: 1128.68, Volume MA: 1220.0087800000003
+[2025-02-18 15:04:42] MA9: 655.4099999999997, MA21: 654.5138095238094, RSI: 59.99, MACD: 1.016410256410495, ATR: 1.6445209866336574
+[2025-02-18 15:04:42] BNBUSDT: Price: 655.9, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 15:04:42] Checking BNBUSDT...
+[2025-02-18 15:04:42] *****************       BNBUSDT    ***************************
+[2025-02-18 15:04:42] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 15:04:42] Volume: 3615.9319, Volume MA: 1884.5714959999998
+[2025-02-18 15:04:42] MA9: 2687.034444444445, MA21: 2691.9723809523807, RSI: 42.41, MACD: -5.092499999997472, ATR: 5.637463299162288
+[2025-02-18 15:04:42] ETHUSDT: Price: 2683, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 15:04:42] Checking ETHUSDT...
+[2025-02-18 15:04:42] *****************       ETHUSDT    ***************************
+[2025-02-18 15:04:42] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 15:04:42] Volume: 38.25286, Volume MA: 51.53377980000001
+[2025-02-18 15:04:42] MA9: 95673.55555555556, MA21: 95703.93761904763, RSI: 48.8, MACD: -45.28660256409785, ATR: 86.55374862223965
+[2025-02-18 15:04:42] BTCUSDT: Price: 95651.14, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 15:04:41] Checking BTCUSDT...
+[2025-02-18 15:04:41] *****************       BTCUSDT    ***************************
+[2025-02-18 15:04:41] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 15:04:41] ****************************************************************
+[2025-02-18 15:04:41] ****************************************************************
+[2025-02-18 14:54:41] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:54:41] Volume: 478651, Volume MA: 593383.58
+[2025-02-18 14:54:41] MA9: 2.5785444444444443, MA21: 2.5861190476190474, RSI: 41.7, MACD: -0.008205128205127199, ATR: 0.00796271461559417
+[2025-02-18 14:54:41] XRPUSDT: Price: 2.574, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 14:54:41] Checking XRPUSDT...
+[2025-02-18 14:54:41] *****************       XRPUSDT    ***************************
+[2025-02-18 14:54:41] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:54:41] Volume: 2818.6, Volume MA: 5208.280199999999
+[2025-02-18 14:54:41] MA9: 24.001111111111108, MA21: 24.04714285714286, RSI: 40.6, MACD: -0.06480769230769567, ATR: 0.08020673327426961
+[2025-02-18 14:54:41] AVAXUSDT: Price: 23.94, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 14:54:40] Checking AVAXUSDT...
+[2025-02-18 14:54:40] *****************       AVAXUSDT    ***************************
+[2025-02-18 14:54:40] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:54:40] Volume: 10372.425, Volume MA: 26576.95026
+[2025-02-18 14:54:40] MA9: 168.51999999999995, MA21: 168.59666666666666, RSI: 51.21, MACD: -0.29653846153846075, ATR: 0.7797687642176022
+[2025-02-18 14:54:40] SOLUSDT: Price: 168.41, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 14:54:40] Checking SOLUSDT...
+[2025-02-18 14:54:40] *****************       SOLUSDT    ***************************
+[2025-02-18 14:54:40] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:54:40] Volume: 597.833, Volume MA: 1196.5270800000003
+[2025-02-18 14:54:40] MA9: 655.1699999999997, MA21: 654.0476190476192, RSI: 55.3, MACD: 0.9998076923078543, ATR: 1.5611011894814129
+[2025-02-18 14:54:40] BNBUSDT: Price: 654.74, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 14:54:40] Checking BNBUSDT...
+[2025-02-18 14:54:40] *****************       BNBUSDT    ***************************
+[2025-02-18 14:54:40] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 14:54:40] Volume: 3103.8458, Volume MA: 1886.0239139999999
+[2025-02-18 14:54:40] MA9: 2689.243333333333, MA21: 2693.2571428571428, RSI: 40.68, MACD: -3.5940384615382754, ATR: 5.469861430689368
+[2025-02-18 14:54:40] ETHUSDT: Price: 2683.49, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 14:54:40] Checking ETHUSDT...
+[2025-02-18 14:54:40] *****************       ETHUSDT    ***************************
+[2025-02-18 14:54:40] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:54:40] Volume: 36.99506, Volume MA: 51.74452440000001
+[2025-02-18 14:54:40] MA9: 95666.9288888889, MA21: 95703.74142857145, RSI: 47.92, MACD: -38.22391025640536, ATR: 85.1897690913494
+[2025-02-18 14:54:40] BTCUSDT: Price: 95641.02, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 14:54:39] Checking BTCUSDT...
+[2025-02-18 14:54:39] *****************       BTCUSDT    ***************************
+[2025-02-18 14:54:39] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 14:54:39] ****************************************************************
+[2025-02-18 14:54:39] ****************************************************************
+[2025-02-18 14:44:39] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:44:39] Volume: 200730, Volume MA: 618691.82
+[2025-02-18 14:44:39] MA9: 2.580833333333333, MA21: 2.588999999999999, RSI: 43.51, MACD: -0.005626282051282239, ATR: 0.00809021849142354
+[2025-02-18 14:44:39] XRPUSDT: Price: 2.5783, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 14:44:39] Checking XRPUSDT...
+[2025-02-18 14:44:39] *****************       XRPUSDT    ***************************
+[2025-02-18 14:44:39] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:44:39] Volume: 3226.29, Volume MA: 5269.660999999998
+[2025-02-18 14:44:39] MA9: 24.011111111111113, MA21: 24.07095238095239, RSI: 43.62, MACD: -0.0465384615384572, ATR: 0.08115576478013856
+[2025-02-18 14:44:39] AVAXUSDT: Price: 23.98, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 14:44:38] Checking AVAXUSDT...
+[2025-02-18 14:44:38] *****************       AVAXUSDT    ***************************
+[2025-02-18 14:44:38] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:44:38] Volume: 9778.374, Volume MA: 27137.013419999996
+[2025-02-18 14:44:38] MA9: 168.52888888888882, MA21: 168.75571428571433, RSI: 48.83, MACD: -0.32044871794872165, ATR: 0.7844949859946709
+[2025-02-18 14:44:38] SOLUSDT: Price: 168.3, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 14:44:38] Checking SOLUSDT...
+[2025-02-18 14:44:38] *****************       SOLUSDT    ***************************
+[2025-02-18 14:44:38] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:44:38] Volume: 540.989, Volume MA: 1233.5902000000003
+[2025-02-18 14:44:38] MA9: 654.9844444444443, MA21: 653.897619047619, RSI: 57.56, MACD: 1.3908333333334895, ATR: 1.6236688542874695
+[2025-02-18 14:44:38] BNBUSDT: Price: 655.07, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 14:44:38] Checking BNBUSDT...
+[2025-02-18 14:44:38] *****************       BNBUSDT    ***************************
+[2025-02-18 14:44:38] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:44:38] Volume: 1503.3071, Volume MA: 1890.2364580000003
+[2025-02-18 14:44:38] MA9: 2690.681111111111, MA21: 2694.7833333333333, RSI: 43.33, MACD: -1.635833333332812, ATR: 5.5864602192613315
+[2025-02-18 14:44:38] ETHUSDT: Price: 2686, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 14:44:37] Checking ETHUSDT...
+[2025-02-18 14:44:37] *****************       ETHUSDT    ***************************
+[2025-02-18 14:44:37] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:44:37] Volume: 31.69532, Volume MA: 52.20022220000001
+[2025-02-18 14:44:37] MA9: 95671.61666666668, MA21: 95717.34523809527, RSI: 46.6, MACD: -16.068269230730948, ATR: 89.23599953996516
+[2025-02-18 14:44:37] BTCUSDT: Price: 95629.35, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 14:44:37] Checking BTCUSDT...
+[2025-02-18 14:44:37] *****************       BTCUSDT    ***************************
+[2025-02-18 14:44:37] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 14:44:37] ****************************************************************
+[2025-02-18 14:44:37] ****************************************************************
+[2025-02-18 14:34:37] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:34:37] Volume: 423050, Volume MA: 639278.72
+[2025-02-18 14:34:37] MA9: 2.582777777777778, MA21: 2.5906904761904754, RSI: 47.29, MACD: -0.0031403846153832404, ATR: 0.008303524097866284
+[2025-02-18 14:34:37] XRPUSDT: Price: 2.582, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 14:34:37] Checking XRPUSDT...
+[2025-02-18 14:34:37] *****************       XRPUSDT    ***************************
+[2025-02-18 14:34:37] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:34:37] Volume: 1625.7, Volume MA: 5351.536199999999
+[2025-02-18 14:34:37] MA9: 24.01888888888889, MA21: 24.08571428571429, RSI: 51, MACD: -0.0322435897435831, ATR: 0.08112193661750236
+[2025-02-18 14:34:37] AVAXUSDT: Price: 24.05, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 14:34:36] Checking AVAXUSDT...
+[2025-02-18 14:34:36] *****************       AVAXUSDT    ***************************
+[2025-02-18 14:34:36] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:34:36] Volume: 6620.062, Volume MA: 28078.592899999996
+[2025-02-18 14:34:36] MA9: 168.43999999999994, MA21: 168.85333333333335, RSI: 55.82, MACD: -0.296730769230777, ATR: 0.8072370579825012
+[2025-02-18 14:34:36] SOLUSDT: Price: 168.95, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 14:34:36] Checking SOLUSDT...
+[2025-02-18 14:34:36] *****************       SOLUSDT    ***************************
+[2025-02-18 14:34:36] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:34:36] Volume: 738.716, Volume MA: 1264.14686
+[2025-02-18 14:34:36] MA9: 654.7566666666665, MA21: 653.7319047619048, RSI: 64.04, MACD: 1.6025000000000773, ATR: 1.6821578276735136
+[2025-02-18 14:34:36] BNBUSDT: Price: 656.12, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 14:34:36] Checking BNBUSDT...
+[2025-02-18 14:34:36] *****************       BNBUSDT    ***************************
+[2025-02-18 14:34:36] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:34:36] Volume: 644.4214, Volume MA: 1951.1636300000007
+[2025-02-18 14:34:36] MA9: 2692.3133333333335, MA21: 2695.3499999999995, RSI: 54.78, MACD: 0.1216025641019769, ATR: 5.629589668490003
+[2025-02-18 14:34:36] ETHUSDT: Price: 2694.24, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 14:34:36] Checking ETHUSDT...
+[2025-02-18 14:34:36] *****************       ETHUSDT    ***************************
+[2025-02-18 14:34:35] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:34:35] Volume: 19.99162, Volume MA: 52.20474400000001
+[2025-02-18 14:34:35] MA9: 95687.27333333336, MA21: 95724.50000000003, RSI: 57.26, MACD: 17.626410256474628, ATR: 90.81085761619705
+[2025-02-18 14:34:35] BTCUSDT: Price: 95778.28, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 14:34:35] Checking BTCUSDT...
+[2025-02-18 14:34:35] *****************       BTCUSDT    ***************************
+[2025-02-18 14:34:35] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 14:34:35] ****************************************************************
+[2025-02-18 14:34:35] ****************************************************************
+[2025-02-18 14:24:35] Not enough data for XRPUSDT...
+[2025-02-18 14:24:35] Error fetching candles for XRPUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking XRPUSDT...
+[2025-02-18 14:24:35] *****************       XRPUSDT    ***************************
+[2025-02-18 14:24:35] Not enough data for AVAXUSDT...
+[2025-02-18 14:24:35] Error fetching candles for AVAXUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking AVAXUSDT...
+[2025-02-18 14:24:35] *****************       AVAXUSDT    ***************************
+[2025-02-18 14:24:35] Not enough data for SOLUSDT...
+[2025-02-18 14:24:35] Error fetching candles for SOLUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking SOLUSDT...
+[2025-02-18 14:24:35] *****************       SOLUSDT    ***************************
+[2025-02-18 14:24:35] Not enough data for BNBUSDT...
+[2025-02-18 14:24:35] Error fetching candles for BNBUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking BNBUSDT...
+[2025-02-18 14:24:35] *****************       BNBUSDT    ***************************
+[2025-02-18 14:24:35] Not enough data for ETHUSDT...
+[2025-02-18 14:24:35] Error fetching candles for ETHUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking ETHUSDT...
+[2025-02-18 14:24:35] *****************       ETHUSDT    ***************************
+[2025-02-18 14:24:35] Not enough data for BTCUSDT...
+[2025-02-18 14:24:35] Error fetching candles for BTCUSDT: TypeError: fetch failed
+[2025-02-18 14:24:35] Checking BTCUSDT...
+[2025-02-18 14:24:35] *****************       BTCUSDT    ***************************
+[2025-02-18 14:24:35] Error getting balances: TypeError: fetch failed
+[2025-02-18 14:24:35] ****************************************************************
+[2025-02-18 14:24:35] ****************************************************************
+[2025-02-18 14:05:51] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:05:51] Volume: 79073, Volume MA: 739364.06
+[2025-02-18 14:05:51] MA9: 2.5908222222222217, MA21: 2.591590476190476, RSI: 45.39, MACD: 0.004878846153846261, ATR: 0.008619080863384776
+[2025-02-18 14:05:51] XRPUSDT: Price: 2.5806, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 14:05:51] Checking XRPUSDT...
+[2025-02-18 14:05:51] *****************       XRPUSDT    ***************************
+[2025-02-18 14:05:51] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:05:51] Volume: 847.5, Volume MA: 6301.213
+[2025-02-18 14:05:51] MA9: 24.072222222222223, MA21: 24.091428571428576, RSI: 42.54, MACD: 0.03416666666666046, ATR: 0.08446504288702343
+[2025-02-18 14:05:51] AVAXUSDT: Price: 23.96, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 14:05:51] Checking AVAXUSDT...
+[2025-02-18 14:05:51] *****************       AVAXUSDT    ***************************
+[2025-02-18 14:05:51] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 14:05:51] Volume: 1253.167, Volume MA: 33353.2389
+[2025-02-18 14:05:51] MA9: 168.47999999999996, MA21: 168.84619047619051, RSI: 50.51, MACD: 0.36628205128207014, ATR: 0.8700312755802551
+[2025-02-18 14:05:51] SOLUSDT: Price: 168.17, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 14:05:50] Checking SOLUSDT...
+[2025-02-18 14:05:50] *****************       SOLUSDT    ***************************
+[2025-02-18 14:05:50] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:05:50] Volume: 190.259, Volume MA: 1383.9435800000003
+[2025-02-18 14:05:50] MA9: 653.9533333333334, MA21: 652.6909523809525, RSI: 56.28, MACD: 1.6355128205126448, ATR: 1.812127463529944
+[2025-02-18 14:05:50] BNBUSDT: Price: 653.54, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 14:05:50] Checking BNBUSDT...
+[2025-02-18 14:05:50] *****************       BNBUSDT    ***************************
+[2025-02-18 14:05:50] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:05:50] Volume: 403.6859, Volume MA: 2133.308024
+[2025-02-18 14:05:50] MA9: 2696.253333333333, MA21: 2694.717619047618, RSI: 48.26, MACD: 4.756794871794682, ATR: 6.107544023535828
+[2025-02-18 14:05:50] ETHUSDT: Price: 2688.6, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 14:05:50] Checking ETHUSDT...
+[2025-02-18 14:05:50] *****************       ETHUSDT    ***************************
+[2025-02-18 14:05:50] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 14:05:50] Volume: 4.6945, Volume MA: 58.09920260000002
+[2025-02-18 14:05:50] MA9: 95750.42666666668, MA21: 95713.37238095241, RSI: 48.76, MACD: 64.07423076925625, ATR: 90.90528713888818
+[2025-02-18 14:05:50] BTCUSDT: Price: 95644.61, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 14:05:50] Checking BTCUSDT...
+[2025-02-18 14:05:50] *****************       BTCUSDT    ***************************
+[2025-02-18 14:05:49] ****************************************************************
+[2025-02-18 14:05:49] ****************************************************************
+[2025-02-18 13:55:49] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:55:49] Volume: 60517, Volume MA: 803196.8
+[2025-02-18 13:55:49] MA9: 2.593677777777778, MA21: 2.591338095238096, RSI: 51.53, MACD: 0.010340384615385112, ATR: 0.008878653192584945
+[2025-02-18 13:55:49] XRPUSDT: Price: 2.5883, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:55:49] Checking XRPUSDT...
+[2025-02-18 13:55:49] *****************       XRPUSDT    ***************************
+[2025-02-18 13:55:49] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:55:49] Volume: 199.16, Volume MA: 6420.413799999998
+[2025-02-18 13:55:49] MA9: 24.10111111111111, MA21: 24.09380952380953, RSI: 49.53, MACD: 0.08749999999999858, ATR: 0.08621577977623088
+[2025-02-18 13:55:49] AVAXUSDT: Price: 24.05, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:55:49] Checking AVAXUSDT...
+[2025-02-18 13:55:49] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:55:49] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 13:55:49] Volume: 5190.11, Volume MA: 34537.918880000005
+[2025-02-18 13:55:49] MA9: 168.66222222222217, MA21: 168.81047619047618, RSI: 49.79, MACD: 0.984615384615438, ATR: 0.923314326994113
+[2025-02-18 13:55:49] SOLUSDT: Price: 168.06, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:55:48] Checking SOLUSDT...
+[2025-02-18 13:55:48] *****************       SOLUSDT    ***************************
+[2025-02-18 13:55:48] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:55:48] Volume: 48.435, Volume MA: 1462.5132199999998
+[2025-02-18 13:55:48] MA9: 653.3844444444444, MA21: 652.3557142857145, RSI: 62.34, MACD: 2.2833333333334167, ATR: 1.7622758658331366
+[2025-02-18 13:55:48] BNBUSDT: Price: 654.77, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:55:48] Checking BNBUSDT...
+[2025-02-18 13:55:48] *****************       BNBUSDT    ***************************
+[2025-02-18 13:55:48] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:55:48] Volume: 43.7443, Volume MA: 2180.9407260000003
+[2025-02-18 13:55:48] MA9: 2697.761111111111, MA21: 2694.447142857142, RSI: 56.18, MACD: 8.46493589743568, ATR: 6.208281252840171
+[2025-02-18 13:55:48] ETHUSDT: Price: 2695.71, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:55:48] Checking ETHUSDT...
+[2025-02-18 13:55:48] *****************       ETHUSDT    ***************************
+[2025-02-18 13:55:48] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:55:48] Volume: 1.71496, Volume MA: 60.52050400000001
+[2025-02-18 13:55:48] MA9: 95756.05777777778, MA21: 95710.7823809524, RSI: 55.48, MACD: 117.94903846153466, ATR: 94.8684609313357
+[2025-02-18 13:55:48] BTCUSDT: Price: 95728.95, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:55:48] Checking BTCUSDT...
+[2025-02-18 13:55:48] *****************       BTCUSDT    ***************************
+[2025-02-18 13:55:47] ****************************************************************
+[2025-02-18 13:55:47] ****************************************************************
+[2025-02-18 13:45:47] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:45:47] Volume: 150457, Volume MA: 836528.9
+[2025-02-18 13:45:47] MA9: 2.5958333333333337, MA21: 2.588519047619049, RSI: 61.07, MACD: 0.014090384615385254, ATR: 0.009183712677150792
+[2025-02-18 13:45:47] XRPUSDT: Price: 2.5998, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:45:47] Checking XRPUSDT...
+[2025-02-18 13:45:47] *****************       XRPUSDT    ***************************
+[2025-02-18 13:45:47] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:45:47] Volume: 508.05, Volume MA: 6722.002799999999
+[2025-02-18 13:45:47] MA9: 24.12222222222222, MA21: 24.06714285714286, RSI: 57.77, MACD: 0.1265384615384555, ATR: 0.09034202361822025
+[2025-02-18 13:45:47] AVAXUSDT: Price: 24.15, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:45:47] Checking AVAXUSDT...
+[2025-02-18 13:45:47] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:45:47] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:45:47] Volume: 2010.979, Volume MA: 35709.10444
+[2025-02-18 13:45:47] MA9: 169.01999999999992, MA21: 168.50714285714284, RSI: 55.1, MACD: 1.4691025641026556, ATR: 0.9499599873645088
+[2025-02-18 13:45:47] SOLUSDT: Price: 168.87, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:45:46] Checking SOLUSDT...
+[2025-02-18 13:45:46] *****************       SOLUSDT    ***************************
+[2025-02-18 13:45:46] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:45:46] Volume: 502.612, Volume MA: 1550.9110599999997
+[2025-02-18 13:45:46] MA9: 652.6211111111111, MA21: 651.3823809523813, RSI: 62.2, MACD: 2.706282051281846, ATR: 1.856939528935749
+[2025-02-18 13:45:46] BNBUSDT: Price: 654.89, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:45:46] Checking BNBUSDT...
+[2025-02-18 13:45:46] *****************       BNBUSDT    ***************************
+[2025-02-18 13:45:46] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:45:46] Volume: 223.6491, Volume MA: 2241.6467140000004
+[2025-02-18 13:45:46] MA9: 2698.2744444444447, MA21: 2692.221904761904, RSI: 64.88, MACD: 10.912243589742957, ATR: 6.503176710042651
+[2025-02-18 13:45:46] ETHUSDT: Price: 2703.49, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:45:46] Checking ETHUSDT...
+[2025-02-18 13:45:46] *****************       ETHUSDT    ***************************
+[2025-02-18 13:45:46] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:45:46] Volume: 3.33814, Volume MA: 64.2124928
+[2025-02-18 13:45:46] MA9: 95754.65111111115, MA21: 95679.69380952381, RSI: 65.31, MACD: 158.96365384622186, ATR: 100.92345671083203
+[2025-02-18 13:45:46] BTCUSDT: Price: 95871.1, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:45:46] Checking BTCUSDT...
+[2025-02-18 13:45:46] *****************       BTCUSDT    ***************************
+[2025-02-18 13:45:45] ****************************************************************
+[2025-02-18 13:45:45] ****************************************************************
+[2025-02-18 13:35:45] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:35:45] Volume: 27955, Volume MA: 892246.3
+[2025-02-18 13:35:45] MA9: 2.5957888888888894, MA21: 2.584100000000001, RSI: 54.47, MACD: 0.013755769230769488, ATR: 0.009182904490772607
+[2025-02-18 13:35:45] XRPUSDT: Price: 2.5891, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:35:45] Checking XRPUSDT...
+[2025-02-18 13:35:45] *****************       XRPUSDT    ***************************
+[2025-02-18 13:35:45] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:35:45] Volume: 147.85, Volume MA: 7467.4468
+[2025-02-18 13:35:45] MA9: 24.134444444444437, MA21: 24.02809523809524, RSI: 53.66, MACD: 0.11775641025640127, ATR: 0.09068241249363947
+[2025-02-18 13:35:45] AVAXUSDT: Price: 24.08, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:35:45] Checking AVAXUSDT...
+[2025-02-18 13:35:45] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:35:45] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:35:45] Volume: 1357.927, Volume MA: 40578.30584
+[2025-02-18 13:35:45] MA9: 169.25333333333333, MA21: 168.0095238095238, RSI: 53.63, MACD: 1.5533974358975513, ATR: 0.9713012671255845
+[2025-02-18 13:35:45] SOLUSDT: Price: 168.48, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:35:44] Checking SOLUSDT...
+[2025-02-18 13:35:44] *****************       SOLUSDT    ***************************
+[2025-02-18 13:35:44] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:35:44] Volume: 264.219, Volume MA: 1710.3768800000003
+[2025-02-18 13:35:44] MA9: 652.3422222222222, MA21: 650.3014285714287, RSI: 57.22, MACD: 2.3830769230768283, ATR: 1.8233258965003647
+[2025-02-18 13:35:44] BNBUSDT: Price: 652.69, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:35:44] Checking BNBUSDT...
+[2025-02-18 13:35:44] *****************       BNBUSDT    ***************************
+[2025-02-18 13:35:44] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:35:44] Volume: 77.4236, Volume MA: 2349.1286000000005
+[2025-02-18 13:35:44] MA9: 2697.1933333333327, MA21: 2688.8219047619036, RSI: 59.34, MACD: 10.49198717948775, ATR: 6.55726742629738
+[2025-02-18 13:35:44] ETHUSDT: Price: 2695.47, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:35:44] Checking ETHUSDT...
+[2025-02-18 13:35:44] *****************       ETHUSDT    ***************************
+[2025-02-18 13:35:44] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 13:35:44] Volume: 11.68324, Volume MA: 69.8775344
+[2025-02-18 13:35:44] MA9: 95730.55111111114, MA21: 95619.95714285712, RSI: 61.28, MACD: 153.80192307689867, ATR: 106.47217145975942
+[2025-02-18 13:35:44] BTCUSDT: Price: 95765.64, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:35:44] Checking BTCUSDT...
+[2025-02-18 13:35:44] *****************       BTCUSDT    ***************************
+[2025-02-18 13:35:43] ****************************************************************
+[2025-02-18 13:35:43] ****************************************************************
+[2025-02-18 13:25:43] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:43] Volume: 43988, Volume MA: 936854.74
+[2025-02-18 13:25:43] MA9: 2.595944444444445, MA21: 2.581038095238096, RSI: 59.49, MACD: 0.014294230769230865, ATR: 0.009778025754032419
+[2025-02-18 13:25:43] XRPUSDT: Price: 2.5956, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:25:43] Checking XRPUSDT...
+[2025-02-18 13:25:43] *****************       XRPUSDT    ***************************
+[2025-02-18 13:25:43] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:43] Volume: 1136.56, Volume MA: 7871.864799999999
+[2025-02-18 13:25:43] MA9: 24.131111111111107, MA21: 23.997142857142858, RSI: 56.56, MACD: 0.12134615384615444, ATR: 0.09639186514713827
+[2025-02-18 13:25:43] AVAXUSDT: Price: 24.12, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:25:43] Checking AVAXUSDT...
+[2025-02-18 13:25:43] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:25:43] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:43] Volume: 1260.979, Volume MA: 42201.786539999994
+[2025-02-18 13:25:43] MA9: 169.26777777777775, MA21: 167.6357142857143, RSI: 57.3, MACD: 1.8044230769231433, ATR: 1.0673660465008632
+[2025-02-18 13:25:43] SOLUSDT: Price: 169.13, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:25:43] Checking SOLUSDT...
+[2025-02-18 13:25:43] *****************       SOLUSDT    ***************************
+[2025-02-18 13:25:43] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:43] Volume: 55.216, Volume MA: 1745.90128
+[2025-02-18 13:25:43] MA9: 651.9933333333333, MA21: 649.4866666666668, RSI: 51.34, MACD: 2.208397435897382, ATR: 1.84072314073702
+[2025-02-18 13:25:43] BNBUSDT: Price: 650.87, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:25:42] Checking BNBUSDT...
+[2025-02-18 13:25:42] *****************       BNBUSDT    ***************************
+[2025-02-18 13:25:42] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:42] Volume: 69.3924, Volume MA: 2441.905882000001
+[2025-02-18 13:25:42] MA9: 2695.806666666667, MA21: 2685.543809523809, RSI: 63.51, MACD: 11.434807692307913, ATR: 6.948664752639264
+[2025-02-18 13:25:42] ETHUSDT: Price: 2698.93, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:25:42] Checking ETHUSDT...
+[2025-02-18 13:25:42] *****************       ETHUSDT    ***************************
+[2025-02-18 13:25:42] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:25:42] Volume: 9.05362, Volume MA: 71.69794620000002
+[2025-02-18 13:25:42] MA9: 95713.40666666672, MA21: 95566.23666666668, RSI: 58.78, MACD: 160.13185897437506, ATR: 113.18871460813071
+[2025-02-18 13:25:42] BTCUSDT: Price: 95722.63, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:25:42] Checking BTCUSDT...
+[2025-02-18 13:25:42] *****************       BTCUSDT    ***************************
+[2025-02-18 13:25:41] ****************************************************************
+[2025-02-18 13:25:41] ****************************************************************
+[2025-02-18 13:15:41] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:41] Volume: 37158, Volume MA: 1022806.36
+[2025-02-18 13:15:41] MA9: 2.593133333333334, MA21: 2.5782000000000007, RSI: 59.63, MACD: 0.01510000000000078, ATR: 0.010470049710016876
+[2025-02-18 13:15:41] XRPUSDT: Price: 2.5952, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:15:41] Checking XRPUSDT...
+[2025-02-18 13:15:41] *****************       XRPUSDT    ***************************
+[2025-02-18 13:15:41] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:41] Volume: 519.9, Volume MA: 8525.225400000001
+[2025-02-18 13:15:41] MA9: 24.111111111111104, MA21: 23.97666666666667, RSI: 57.84, MACD: 0.13115384615386105, ATR: 0.10073123472585138
+[2025-02-18 13:15:41] AVAXUSDT: Price: 24.13, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:15:41] Checking AVAXUSDT...
+[2025-02-18 13:15:41] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:15:41] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:41] Volume: 1230.993, Volume MA: 45433.84605999999
+[2025-02-18 13:15:41] MA9: 169.10666666666668, MA21: 167.31999999999996, RSI: 58.27, MACD: 2.0533974358974945, ATR: 1.1292652119156301
+[2025-02-18 13:15:41] SOLUSDT: Price: 169.21, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:15:41] Checking SOLUSDT...
+[2025-02-18 13:15:41] *****************       SOLUSDT    ***************************
+[2025-02-18 13:15:41] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:41] Volume: 177.647, Volume MA: 1758.9218000000003
+[2025-02-18 13:15:41] MA9: 651.9866666666667, MA21: 649.2833333333332, RSI: 52.01, MACD: 2.4998076923073995, ATR: 1.9284941003306046
+[2025-02-18 13:15:41] BNBUSDT: Price: 650.99, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:15:40] Checking BNBUSDT...
+[2025-02-18 13:15:40] *****************       BNBUSDT    ***************************
+[2025-02-18 13:15:40] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:40] Volume: 130.7974, Volume MA: 2568.3088060000005
+[2025-02-18 13:15:40] MA9: 2693.147777777778, MA21: 2682.537142857143, RSI: 60.58, MACD: 12.579935897436371, ATR: 7.177547841974413
+[2025-02-18 13:15:40] ETHUSDT: Price: 2694.39, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:15:40] Checking ETHUSDT...
+[2025-02-18 13:15:40] *****************       ETHUSDT    ***************************
+[2025-02-18 13:15:40] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:15:40] Volume: 2.97568, Volume MA: 74.2651722
+[2025-02-18 13:15:40] MA9: 95693.09111111115, MA21: 95530.94333333333, RSI: 56.17, MACD: 182.64173076924635, ATR: 116.79410929553444
+[2025-02-18 13:15:40] BTCUSDT: Price: 95666.29, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:15:40] Checking BTCUSDT...
+[2025-02-18 13:15:40] *****************       BTCUSDT    ***************************
+[2025-02-18 13:15:39] ****************************************************************
+[2025-02-18 13:15:39] ****************************************************************
+[2025-02-18 13:05:40] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:40] Volume: 70397, Volume MA: 1155634.16
+[2025-02-18 13:05:40] MA9: 2.592066666666667, MA21: 2.576204761904763, RSI: 65.28, MACD: 0.013728205128205495, ATR: 0.010897923501057463
+[2025-02-18 13:05:40] XRPUSDT: Price: 2.6032, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 13:05:39] Checking XRPUSDT...
+[2025-02-18 13:05:39] *****************       XRPUSDT    ***************************
+[2025-02-18 13:05:39] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:39] Volume: 1726.9, Volume MA: 9574.122000000001
+[2025-02-18 13:05:39] MA9: 24.11555555555555, MA21: 23.96666666666667, RSI: 65.43, MACD: 0.10544871794872535, ATR: 0.10187166181870377
+[2025-02-18 13:05:39] AVAXUSDT: Price: 24.23, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 13:05:39] Checking AVAXUSDT...
+[2025-02-18 13:05:39] *****************       AVAXUSDT    ***************************
+[2025-02-18 13:05:39] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:39] Volume: 10837.467, Volume MA: 48448.513419999996
+[2025-02-18 13:05:39] MA9: 169.1866666666666, MA21: 167.05666666666664, RSI: 62.63, MACD: 1.7766666666667277, ATR: 1.184750771048492
+[2025-02-18 13:05:39] SOLUSDT: Price: 170.05, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 13:05:39] Checking SOLUSDT...
+[2025-02-18 13:05:39] *****************       SOLUSDT    ***************************
+[2025-02-18 13:05:39] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:39] Volume: 102.25, Volume MA: 1787.8202400000002
+[2025-02-18 13:05:39] MA9: 652.2855555555553, MA21: 649.2695238095237, RSI: 62.05, MACD: 2.0774999999999864, ATR: 1.9119383433141464
+[2025-02-18 13:05:39] BNBUSDT: Price: 654.02, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 13:05:38] Checking BNBUSDT...
+[2025-02-18 13:05:38] *****************       BNBUSDT    ***************************
+[2025-02-18 13:05:38] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:38] Volume: 126.2693, Volume MA: 2844.6751140000006
+[2025-02-18 13:05:38] MA9: 2693.431111111111, MA21: 2680.707619047619, RSI: 70.02, MACD: 12.046666666666624, ATR: 7.308878775869802
+[2025-02-18 13:05:38] ETHUSDT: Price: 2702.98, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 13:05:38] Checking ETHUSDT...
+[2025-02-18 13:05:38] *****************       ETHUSDT    ***************************
+[2025-02-18 13:05:38] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 13:05:38] Volume: 2.46681, Volume MA: 79.08267919999999
+[2025-02-18 13:05:38] MA9: 95701.05777777782, MA21: 95514.22476190476, RSI: 66.09, MACD: 184.3637179486832, ATR: 116.937622472868
+[2025-02-18 13:05:38] BTCUSDT: Price: 95822.54, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 13:05:38] Checking BTCUSDT...
+[2025-02-18 13:05:38] *****************       BTCUSDT    ***************************
+[2025-02-18 13:05:37] ****************************************************************
+[2025-02-18 13:05:37] ****************************************************************
+[2025-02-18 12:55:37] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:37] Volume: 57992, Volume MA: 1151520.74
+[2025-02-18 12:55:37] MA9: 2.585655555555556, MA21: 2.5723476190476195, RSI: 62.14, MACD: 0.008272435897436647, ATR: 0.010884156540378036
+[2025-02-18 12:55:37] XRPUSDT: Price: 2.5951, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:55:37] Checking XRPUSDT...
+[2025-02-18 12:55:37] *****************       XRPUSDT    ***************************
+[2025-02-18 12:55:37] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:37] Volume: 391.28, Volume MA: 9437.4588
+[2025-02-18 12:55:37] MA9: 24.05444444444443, MA21: 23.936666666666664, RSI: 61.13, MACD: 0.03532051282050119, ATR: 0.1027623041918725
+[2025-02-18 12:55:37] AVAXUSDT: Price: 24.15, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:55:37] Checking AVAXUSDT...
+[2025-02-18 12:55:37] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:55:37] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:37] Volume: 2257.937, Volume MA: 48813.27731999999
+[2025-02-18 12:55:37] MA9: 168.54111111111104, MA21: 166.5914285714286, RSI: 59.35, MACD: 1.0352564102564088, ATR: 1.1654481062481818
+[2025-02-18 12:55:37] SOLUSDT: Price: 169.07, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:55:36] Checking SOLUSDT...
+[2025-02-18 12:55:36] *****************       SOLUSDT    ***************************
+[2025-02-18 12:55:36] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:36] Volume: 397.164, Volume MA: 1757.6376200000004
+[2025-02-18 12:55:36] MA9: 651.0577777777776, MA21: 648.7047619047619, RSI: 61.1, MACD: 0.4769230769230717, ATR: 1.8812594433445504
+[2025-02-18 12:55:36] BNBUSDT: Price: 653.09, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:55:35] Checking BNBUSDT...
+[2025-02-18 12:55:35] *****************       BNBUSDT    ***************************
+[2025-02-18 12:55:35] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:35] Volume: 90.1205, Volume MA: 2962.7089639999995
+[2025-02-18 12:55:35] MA9: 2689.3233333333346, MA21: 2677.3357142857144, RSI: 62.45, MACD: 8.45948717948886, ATR: 7.24962531692841
+[2025-02-18 12:55:35] ETHUSDT: Price: 2692.58, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:55:35] Checking ETHUSDT...
+[2025-02-18 12:55:35] *****************       ETHUSDT    ***************************
+[2025-02-18 12:55:35] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:55:35] Volume: 5.04307, Volume MA: 80.71545379999999
+[2025-02-18 12:55:35] MA9: 95652.1477777778, MA21: 95467.9419047619, RSI: 61.6, MACD: 124.20660256408155, ATR: 121.78775259177986
+[2025-02-18 12:55:35] BTCUSDT: Price: 95725, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:55:35] Checking BTCUSDT...
+[2025-02-18 12:55:35] *****************       BTCUSDT    ***************************
+[2025-02-18 12:55:35] ****************************************************************
+[2025-02-18 12:55:35] ****************************************************************
+[2025-02-18 12:45:35] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:35] Volume: 399089, Volume MA: 1167147.34
+[2025-02-18 12:45:35] MA9: 2.576633333333333, MA21: 2.5689380952380945, RSI: 54.58, MACD: 0.004069230769230714, ATR: 0.011099474364796472
+[2025-02-18 12:45:35] XRPUSDT: Price: 2.5806, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:45:34] Checking XRPUSDT...
+[2025-02-18 12:45:34] *****************       XRPUSDT    ***************************
+[2025-02-18 12:45:34] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:34] Volume: 498.47, Volume MA: 9482.521
+[2025-02-18 12:45:34] MA9: 23.965555555555547, MA21: 23.91761904761905, RSI: 51.35, MACD: -0.015320512820519383, ATR: 0.10111190984932622
+[2025-02-18 12:45:34] AVAXUSDT: Price: 23.98, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:45:34] Checking AVAXUSDT...
+[2025-02-18 12:45:34] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:45:34] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:34] Volume: 4168.251, Volume MA: 48639.62385999999
+[2025-02-18 12:45:34] MA9: 167.56333333333333, MA21: 166.30714285714285, RSI: 55.1, MACD: 0.4617948717947513, ATR: 1.1767608650205112
+[2025-02-18 12:45:34] SOLUSDT: Price: 168.06, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:45:33] Checking SOLUSDT...
+[2025-02-18 12:45:33] *****************       SOLUSDT    ***************************
+[2025-02-18 12:45:33] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:33] Volume: 250.264, Volume MA: 1893.6913000000004
+[2025-02-18 12:45:33] MA9: 649.2222222222218, MA21: 648.3099999999997, RSI: 53.2, MACD: -0.7183333333333621, ATR: 1.9052206814795636
+[2025-02-18 12:45:33] BNBUSDT: Price: 650.25, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:45:32] Checking BNBUSDT...
+[2025-02-18 12:45:32] *****************       BNBUSDT    ***************************
+[2025-02-18 12:45:32] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:32] Volume: 78.6956, Volume MA: 3059.361114
+[2025-02-18 12:45:32] MA9: 2684.3, MA21: 2675.2114285714288, RSI: 56.98, MACD: 5.431346153848153, ATR: 7.367333467643273
+[2025-02-18 12:45:32] ETHUSDT: Price: 2684.95, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:45:32] Checking ETHUSDT...
+[2025-02-18 12:45:32] *****************       ETHUSDT    ***************************
+[2025-02-18 12:45:32] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:45:32] Volume: 3.29876, Volume MA: 81.41123900000001
+[2025-02-18 12:45:32] MA9: 95572.01888888894, MA21: 95429.60285714285, RSI: 57.16, MACD: 60.85307692301285, ATR: 128.2249764679135
+[2025-02-18 12:45:32] BTCUSDT: Price: 95624.49, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:45:31] Checking BTCUSDT...
+[2025-02-18 12:45:31] *****************       BTCUSDT    ***************************
+[2025-02-18 12:45:31] ****************************************************************
+[2025-02-18 12:45:31] ****************************************************************
+[2025-02-18 12:35:31] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:35:31] Volume: 134808, Volume MA: 1187189.08
+[2025-02-18 12:35:31] MA9: 2.571955555555555, MA21: 2.5672904761904767, RSI: 59.5, MACD: 0.0013544871794870517, ATR: 0.011404658279808202
+[2025-02-18 12:35:31] XRPUSDT: Price: 2.5874, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:35:31] Checking XRPUSDT...
+[2025-02-18 12:35:31] *****************       XRPUSDT    ***************************
+[2025-02-18 12:35:31] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:35:31] Volume: 1280.04, Volume MA: 9740.154
+[2025-02-18 12:35:31] MA9: 23.922222222222207, MA21: 23.91952380952381, RSI: 57.51, MACD: -0.047115384615402434, ATR: 0.10528310362760566
+[2025-02-18 12:35:31] AVAXUSDT: Price: 24.07, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:35:31] Checking AVAXUSDT...
+[2025-02-18 12:35:31] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:35:31] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:35:31] Volume: 8500.745, Volume MA: 48021.37102
+[2025-02-18 12:35:31] MA9: 166.72, MA21: 166.1361904761905, RSI: 61.12, MACD: 0.012435897435835841, ATR: 1.2014518814741435
+[2025-02-18 12:35:31] SOLUSDT: Price: 169.05, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:35:30] Checking SOLUSDT...
+[2025-02-18 12:35:30] *****************       SOLUSDT    ***************************
+[2025-02-18 12:35:30] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:35:30] Volume: 120.394, Volume MA: 1893.57356
+[2025-02-18 12:35:30] MA9: 648.0211111111107, MA21: 648.3447619047618, RSI: 56.88, MACD: -1.4305769230769556, ATR: 1.9708579741888201
+[2025-02-18 12:35:30] BNBUSDT: Price: 651.25, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:35:30] Checking BNBUSDT...
+[2025-02-18 12:35:30] *****************       BNBUSDT    ***************************
+[2025-02-18 12:35:30] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:35:30] Volume: 400.0287, Volume MA: 3178.066037999999
+[2025-02-18 12:35:30] MA9: 2681.101111111112, MA21: 2674.0185714285726, RSI: 63.73, MACD: 2.627628205129895, ATR: 7.548686822587715
+[2025-02-18 12:35:30] ETHUSDT: Price: 2691.12, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:35:30] Checking ETHUSDT...
+[2025-02-18 12:35:30] *****************       ETHUSDT    ***************************
+[2025-02-18 12:35:30] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:35:30] Volume: 5.22853, Volume MA: 81.28031079999998
+[2025-02-18 12:35:30] MA9: 95497.06666666671, MA21: 95410.42619047617, RSI: 57.41, MACD: 1.7978846153419, ATR: 135.38367768773395
+[2025-02-18 12:35:30] BTCUSDT: Price: 95623.41, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:35:30] Checking BTCUSDT...
+[2025-02-18 12:35:30] *****************       BTCUSDT    ***************************
+[2025-02-18 12:35:29] ****************************************************************
+[2025-02-18 12:35:29] ****************************************************************
+[2025-02-18 12:25:29] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:25:29] Volume: 133512, Volume MA: 1186737.48
+[2025-02-18 12:25:29] MA9: 2.565266666666666, MA21: 2.5649761904761905, RSI: 59.99, MACD: -0.0010794871794872485, ATR: 0.011814987991811151
+[2025-02-18 12:25:29] XRPUSDT: Price: 2.5872, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:25:28] Checking XRPUSDT...
+[2025-02-18 12:25:28] *****************       XRPUSDT    ***************************
+[2025-02-18 12:25:28] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:25:28] Volume: 3484.91, Volume MA: 10026.2518
+[2025-02-18 12:25:28] MA9: 23.847777777777765, MA21: 23.909523809523808, RSI: 59.28, MACD: -0.07179487179488575, ATR: 0.10999595618241444
+[2025-02-18 12:25:28] AVAXUSDT: Price: 24.08, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:25:28] Checking AVAXUSDT...
+[2025-02-18 12:25:28] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:25:28] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:25:28] Volume: 7804.579, Volume MA: 47790.819460000006
+[2025-02-18 12:25:28] MA9: 165.63777777777784, MA21: 165.8004761904762, RSI: 62.99, MACD: -0.44243589743595635, ATR: 1.250680085401032
+[2025-02-18 12:25:28] SOLUSDT: Price: 168.97, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:25:28] Checking SOLUSDT...
+[2025-02-18 12:25:28] *****************       SOLUSDT    ***************************
+[2025-02-18 12:25:28] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:25:28] Volume: 190.116, Volume MA: 1904.66982
+[2025-02-18 12:25:28] MA9: 646.513333333333, MA21: 648.3904761904762, RSI: 57.71, MACD: -1.621538461538421, ATR: 2.0966324230754205
+[2025-02-18 12:25:28] BNBUSDT: Price: 651.2, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:25:28] Checking BNBUSDT...
+[2025-02-18 12:25:28] *****************       BNBUSDT    ***************************
+[2025-02-18 12:25:28] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:25:28] Volume: 266.8496, Volume MA: 3215.4493199999997
+[2025-02-18 12:25:28] MA9: 2674.023333333333, MA21: 2672.089523809525, RSI: 65.09, MACD: 0.13487179487265166, ATR: 7.930008240943817
+[2025-02-18 12:25:28] ETHUSDT: Price: 2691.51, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:25:27] Checking ETHUSDT...
+[2025-02-18 12:25:27] *****************       ETHUSDT    ***************************
+[2025-02-18 12:25:27] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 12:25:27] Volume: 8.2687, Volume MA: 80.94144179999999
+[2025-02-18 12:25:27] MA9: 95406.82111111115, MA21: 95398.51285714286, RSI: 63.4, MACD: -34.440705128217814, ATR: 139.17128793341567
+[2025-02-18 12:25:27] BTCUSDT: Price: 95720.03, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:25:27] Checking BTCUSDT...
+[2025-02-18 12:25:27] *****************       BTCUSDT    ***************************
+[2025-02-18 12:25:27] ****************************************************************
+[2025-02-18 12:25:27] ****************************************************************
+[2025-02-18 12:15:27] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:15:27] Volume: 48468, Volume MA: 1175359.56
+[2025-02-18 12:15:27] MA9: 2.559944444444444, MA21: 2.5633666666666675, RSI: 49.63, MACD: -0.0010294871794855887, ATR: 0.011556123381123292
+[2025-02-18 12:15:27] XRPUSDT: Price: 2.5675, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:15:27] Checking XRPUSDT...
+[2025-02-18 12:15:27] *****************       XRPUSDT    ***************************
+[2025-02-18 12:15:27] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:15:27] Volume: 615.53, Volume MA: 9889.556600000002
+[2025-02-18 12:15:27] MA9: 23.796666666666667, MA21: 23.902857142857147, RSI: 44.39, MACD: -0.08019230769231811, ATR: 0.10355837071907034
+[2025-02-18 12:15:27] AVAXUSDT: Price: 23.85, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:15:26] Checking AVAXUSDT...
+[2025-02-18 12:15:26] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:15:26] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:15:26] Volume: 4359.371, Volume MA: 46634.46374
+[2025-02-18 12:15:26] MA9: 164.7766666666667, MA21: 165.5671428571428, RSI: 45.96, MACD: -0.6940384615385256, ATR: 1.1086174016104715
+[2025-02-18 12:15:26] SOLUSDT: Price: 165.54, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:15:26] Checking SOLUSDT...
+[2025-02-18 12:15:26] *****************       SOLUSDT    ***************************
+[2025-02-18 12:15:26] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:15:26] Volume: 229.933, Volume MA: 1907.6815000000006
+[2025-02-18 12:15:26] MA9: 645.6866666666665, MA21: 648.2685714285715, RSI: 42.84, MACD: -1.4383974358975138, ATR: 1.9480943253885386
+[2025-02-18 12:15:26] BNBUSDT: Price: 646.23, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:15:26] Checking BNBUSDT...
+[2025-02-18 12:15:26] *****************       BNBUSDT    ***************************
+[2025-02-18 12:15:26] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:15:26] Volume: 214.5526, Volume MA: 3205.555254
+[2025-02-18 12:15:26] MA9: 2667.982222222222, MA21: 2670.2480952380965, RSI: 54.62, MACD: -1.3828846153851373, ATR: 7.3874836494622045
+[2025-02-18 12:15:26] ETHUSDT: Price: 2676.49, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:15:25] Checking ETHUSDT...
+[2025-02-18 12:15:25] *****************       ETHUSDT    ***************************
+[2025-02-18 12:15:25] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:15:25] Volume: 3.63107, Volume MA: 80.49235639999999
+[2025-02-18 12:15:25] MA9: 95314.81000000003, MA21: 95378.99428571427, RSI: 53.11, MACD: -63.162435897480464, ATR: 135.53996921023446
+[2025-02-18 12:15:25] BTCUSDT: Price: 95471.68, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:15:25] Checking BTCUSDT...
+[2025-02-18 12:15:25] *****************       BTCUSDT    ***************************
+[2025-02-18 12:15:25] ****************************************************************
+[2025-02-18 12:15:25] ****************************************************************
+[2025-02-18 12:05:25] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:05:25] Volume: 24832, Volume MA: 1175499.44
+[2025-02-18 12:05:25] MA9: 2.5619444444444444, MA21: 2.5646952380952386, RSI: 40.81, MACD: -0.0009076923076913879, ATR: 0.011197630060317324
+[2025-02-18 12:05:25] XRPUSDT: Price: 2.5568, USDT Balance: 41.14167258, XRP Balance: 0
+[2025-02-18 12:05:25] Checking XRPUSDT...
+[2025-02-18 12:05:25] *****************       XRPUSDT    ***************************
+[2025-02-18 12:05:25] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:05:25] Volume: 452.77, Volume MA: 9583.4322
+[2025-02-18 12:05:25] MA9: 23.83222222222222, MA21: 23.92428571428572, RSI: 31.38, MACD: -0.07019230769229878, ATR: 0.09731894223611316
+[2025-02-18 12:05:25] AVAXUSDT: Price: 23.73, USDT Balance: 41.14167258, AVAX Balance: 0
+[2025-02-18 12:05:24] Checking AVAXUSDT...
+[2025-02-18 12:05:24] *****************       AVAXUSDT    ***************************
+[2025-02-18 12:05:24] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:05:24] Volume: 1124.727, Volume MA: 44750.25257999999
+[2025-02-18 12:05:24] MA9: 164.9611111111111, MA21: 165.797619047619, RSI: 33.85, MACD: -0.6505128205129154, ATR: 1.04786916496968
+[2025-02-18 12:05:24] SOLUSDT: Price: 163.98, USDT Balance: 41.14167258, SOL Balance: 0.000829
+[2025-02-18 12:05:24] Checking SOLUSDT...
+[2025-02-18 12:05:24] *****************       SOLUSDT    ***************************
+[2025-02-18 12:05:24] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:05:24] Volume: 49.417, Volume MA: 1892.8077600000004
+[2025-02-18 12:05:24] MA9: 646.5999999999999, MA21: 648.6628571428572, RSI: 33.61, MACD: -1.1437820512820736, ATR: 1.8978325373463931
+[2025-02-18 12:05:24] BNBUSDT: Price: 644.2, USDT Balance: 41.14167258, BNB Balance: 0.00096923
+[2025-02-18 12:05:24] Checking BNBUSDT...
+[2025-02-18 12:05:24] *****************       BNBUSDT    ***************************
+[2025-02-18 12:05:24] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 12:05:24] Volume: 201.7543, Volume MA: 3292.424473999999
+[2025-02-18 12:05:24] MA9: 2667.8855555555547, MA21: 2670.4695238095246, RSI: 50.46, MACD: -1.4505769230772785, ATR: 7.065006190473142
+[2025-02-18 12:05:24] ETHUSDT: Price: 2671.28, USDT Balance: 41.14167258, ETH Balance: 0
+[2025-02-18 12:05:24] Checking ETHUSDT...
+[2025-02-18 12:05:24] *****************       ETHUSDT    ***************************
+[2025-02-18 12:05:24] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 12:05:24] Volume: 2.20827, Volume MA: 78.0102496
+[2025-02-18 12:05:24] MA9: 95313.11333333339, MA21: 95392.25428571428, RSI: 44.67, MACD: -86.2340384615818, ATR: 133.11486450868915
+[2025-02-18 12:05:24] BTCUSDT: Price: 95323.55, USDT Balance: 41.14167258, BTC Balance: 0
+[2025-02-18 12:05:23] Checking BTCUSDT...
+[2025-02-18 12:05:23] *****************       BTCUSDT    ***************************
+[2025-02-18 12:05:23] ****************************************************************
+[2025-02-18 12:05:23] ****************************************************************
+[2025-02-18 11:55:23] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:23] Volume: 19754, Volume MA: 1160421.6
+[2025-02-18 11:55:23] MA9: 2.564277777777778, MA21: 2.56542380952381, RSI: 41.69, MACD: -0.0009115384615370203, ATR: 0.011078575306619676
+[2025-02-18 11:55:23] XRPUSDT: Price: 2.5583, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:55:23] Checking XRPUSDT...
+[2025-02-18 11:55:23] *****************       XRPUSDT    ***************************
+[2025-02-18 11:55:23] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:23] Volume: 502.32, Volume MA: 9157.1662
+[2025-02-18 11:55:23] MA9: 23.87888888888889, MA21: 23.94952380952381, RSI: 33.56, MACD: -0.04846153846154877, ATR: 0.0957580927654063
+[2025-02-18 11:55:23] AVAXUSDT: Price: 23.77, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:55:23] Checking AVAXUSDT...
+[2025-02-18 11:55:23] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:55:23] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:23] Volume: 1143.903, Volume MA: 43377.39612
+[2025-02-18 11:55:23] MA9: 165.4377777777778, MA21: 166.09142857142854, RSI: 35.74, MACD: -0.3809615384616336, ATR: 1.0586253805655048
+[2025-02-18 11:55:23] SOLUSDT: Price: 164.51, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:55:22] Checking SOLUSDT...
+[2025-02-18 11:55:22] *****************       SOLUSDT    ***************************
+[2025-02-18 11:55:22] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:22] Volume: 76.884, Volume MA: 1856.3202200000005
+[2025-02-18 11:55:22] MA9: 647.7366666666668, MA21: 648.9604761904764, RSI: 36.1, MACD: -0.4139102564104178, ATR: 1.893245258511263
+[2025-02-18 11:55:22] BNBUSDT: Price: 645.17, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:55:22] Checking BNBUSDT...
+[2025-02-18 11:55:22] *****************       BNBUSDT    ***************************
+[2025-02-18 11:55:22] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:22] Volume: 127.193, Volume MA: 3255.6480459999993
+[2025-02-18 11:55:22] MA9: 2667.0711111111113, MA21: 2670.1795238095256, RSI: 41.68, MACD: -1.3524358974364077, ATR: 6.9811660587843996
+[2025-02-18 11:55:22] ETHUSDT: Price: 2662.69, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:55:22] Checking ETHUSDT...
+[2025-02-18 11:55:22] *****************       ETHUSDT    ***************************
+[2025-02-18 11:55:22] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:55:22] Volume: 2.99364, Volume MA: 75.35834019999999
+[2025-02-18 11:55:22] MA9: 95320.88555555558, MA21: 95411.36285714286, RSI: 39.15, MACD: -86.17057692311937, ATR: 130.2397200560163
+[2025-02-18 11:55:22] BTCUSDT: Price: 95230.33, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:55:21] Checking BTCUSDT...
+[2025-02-18 11:55:21] *****************       BTCUSDT    ***************************
+[2025-02-18 11:55:21] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:55:21] ****************************************************************
+[2025-02-18 11:55:21] ****************************************************************
+[2025-02-18 11:45:21] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:45:21] Volume: 29095, Volume MA: 1152583.84
+[2025-02-18 11:45:21] MA9: 2.5663111111111117, MA21: 2.5654857142857144, RSI: 46.3, MACD: -0.0005923076923068926, ATR: 0.011076951199284184
+[2025-02-18 11:45:21] XRPUSDT: Price: 2.568, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:45:21] Checking XRPUSDT...
+[2025-02-18 11:45:21] *****************       XRPUSDT    ***************************
+[2025-02-18 11:45:21] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:45:21] Volume: 193.18, Volume MA: 8727.236799999999
+[2025-02-18 11:45:21] MA9: 23.935555555555553, MA21: 23.96809523809524, RSI: 38.97, MACD: -0.023589743589752743, ATR: 0.09015504222405975
+[2025-02-18 11:45:21] AVAXUSDT: Price: 23.89, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:45:21] Checking AVAXUSDT...
+[2025-02-18 11:45:21] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:45:21] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:45:21] Volume: 510.737, Volume MA: 42808.618720000006
+[2025-02-18 11:45:21] MA9: 165.92333333333337, MA21: 166.1761904761904, RSI: 41.47, MACD: -0.3169230769231035, ATR: 1.0467058726245935
+[2025-02-18 11:45:21] SOLUSDT: Price: 165.86, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:45:20] Checking SOLUSDT...
+[2025-02-18 11:45:20] *****************       SOLUSDT    ***************************
+[2025-02-18 11:45:20] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:45:20] Volume: 62.788, Volume MA: 1815.5816000000007
+[2025-02-18 11:45:20] MA9: 649.0422222222223, MA21: 649.2261904761905, RSI: 42.48, MACD: 0.6448717948718468, ATR: 1.7208664610231985
+[2025-02-18 11:45:20] BNBUSDT: Price: 648.4, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:45:20] Checking BNBUSDT...
+[2025-02-18 11:45:20] *****************       BNBUSDT    ***************************
+[2025-02-18 11:45:20] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 11:45:20] Volume: 120.8785, Volume MA: 3101.990981999999
+[2025-02-18 11:45:20] MA9: 2669.928888888889, MA21: 2670.658571428573, RSI: 45.64, MACD: 0.07455128205083383, ATR: 6.360319010972415
+[2025-02-18 11:45:20] ETHUSDT: Price: 2669.03, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:45:20] Checking ETHUSDT...
+[2025-02-18 11:45:20] *****************       ETHUSDT    ***************************
+[2025-02-18 11:45:20] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:45:20] Volume: 3.06714, Volume MA: 68.69453519999999
+[2025-02-18 11:45:20] MA9: 95369.14111111114, MA21: 95439.33285714284, RSI: 44.81, MACD: -57.86532051290851, ATR: 117.58203230923897
+[2025-02-18 11:45:20] BTCUSDT: Price: 95395.41, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:45:19] Checking BTCUSDT...
+[2025-02-18 11:45:19] *****************       BTCUSDT    ***************************
+[2025-02-18 11:45:19] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:45:19] ****************************************************************
+[2025-02-18 11:45:19] ****************************************************************
+[2025-02-18 11:35:19] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:35:19] Volume: 38966, Volume MA: 1152454.84
+[2025-02-18 11:35:19] MA9: 2.565711111111112, MA21: 2.5652857142857144, RSI: 47.4, MACD: -0.0008891025641011296, ATR: 0.011146550790339103
+[2025-02-18 11:35:19] XRPUSDT: Price: 2.5697, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:35:19] Checking XRPUSDT...
+[2025-02-18 11:35:19] *****************       XRPUSDT    ***************************
+[2025-02-18 11:35:19] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:35:19] Volume: 10.42, Volume MA: 8749.418599999999
+[2025-02-18 11:35:19] MA9: 23.96555555555555, MA21: 23.980476190476196, RSI: 44.33, MACD: -0.00326923076924146, ATR: 0.09099573458927473
+[2025-02-18 11:35:19] AVAXUSDT: Price: 23.96, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:35:19] Checking AVAXUSDT...
+[2025-02-18 11:35:19] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:35:19] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:35:19] Volume: 870.021, Volume MA: 42461.25456
+[2025-02-18 11:35:19] MA9: 166.00333333333336, MA21: 166.2014285714285, RSI: 42, MACD: -0.31294871794881374, ATR: 1.0877980496810764
+[2025-02-18 11:35:19] SOLUSDT: Price: 165.98, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:35:18] Checking SOLUSDT...
+[2025-02-18 11:35:18] *****************       SOLUSDT    ***************************
+[2025-02-18 11:35:18] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:35:18] Volume: 14.686, Volume MA: 1824.2459000000008
+[2025-02-18 11:35:18] MA9: 649.6011111111111, MA21: 649.1561904761905, RSI: 46.25, MACD: 1.0601923076922048, ATR: 1.820832440770298
+[2025-02-18 11:35:18] BNBUSDT: Price: 649.49, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:35:18] Checking BNBUSDT...
+[2025-02-18 11:35:18] *****************       BNBUSDT    ***************************
+[2025-02-18 11:35:18] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:35:18] Volume: 39.362, Volume MA: 3038.1214099999984
+[2025-02-18 11:35:18] MA9: 2671.0444444444447, MA21: 2670.7100000000005, RSI: 48.53, MACD: 1.322564102564229, ATR: 6.538280513582833
+[2025-02-18 11:35:18] ETHUSDT: Price: 2671.08, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:35:18] Checking ETHUSDT...
+[2025-02-18 11:35:18] *****************       ETHUSDT    ***************************
+[2025-02-18 11:35:18] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 11:35:18] Volume: 1.33496, Volume MA: 68.3613232
+[2025-02-18 11:35:18] MA9: 95388.35666666673, MA21: 95451.32285714285, RSI: 45.19, MACD: -32.371987179561984, ATR: 119.94665815799087
+[2025-02-18 11:35:18] BTCUSDT: Price: 95411.66, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:35:17] Checking BTCUSDT...
+[2025-02-18 11:35:17] *****************       BTCUSDT    ***************************
+[2025-02-18 11:35:17] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:35:17] ****************************************************************
+[2025-02-18 11:35:17] ****************************************************************
+[2025-02-18 11:25:17] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:25:17] Volume: 77005, Volume MA: 1132412.9
+[2025-02-18 11:25:17] MA9: 2.5640444444444443, MA21: 2.565295238095238, RSI: 47.76, MACD: -0.000012179487178354265, ATR: 0.011314821042732993
+[2025-02-18 11:25:17] XRPUSDT: Price: 2.5708, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:25:17] Checking XRPUSDT...
+[2025-02-18 11:25:17] *****************       XRPUSDT    ***************************
+[2025-02-18 11:25:17] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 0% of conditions met.
+[2025-02-18 11:25:17] Volume: 0.39, Volume MA: 8730.8566
+[2025-02-18 11:25:17] MA9: 23.972222222222214, MA21: 23.9852380952381, RSI: 46.19, MACD: 0.0162179487179408, ATR: 0.09115321436165054
+[2025-02-18 11:25:17] AVAXUSDT: Price: 23.99, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:25:17] Checking AVAXUSDT...
+[2025-02-18 11:25:17] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:25:17] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:25:17] Volume: 1095.119, Volume MA: 41838.88632
+[2025-02-18 11:25:17] MA9: 165.93333333333337, MA21: 166.27333333333328, RSI: 41.45, MACD: -0.16205128205137953, ATR: 1.0840802190948524
+[2025-02-18 11:25:17] SOLUSDT: Price: 166.07, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:25:16] Checking SOLUSDT...
+[2025-02-18 11:25:16] *****************       SOLUSDT    ***************************
+[2025-02-18 11:25:16] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:25:16] Volume: 119.174, Volume MA: 1823.0224400000006
+[2025-02-18 11:25:16] MA9: 650.1288888888889, MA21: 648.9333333333334, RSI: 47.89, MACD: 1.1554487179483885, ATR: 1.8219703657130353
+[2025-02-18 11:25:16] BNBUSDT: Price: 650.25, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:25:16] Checking BNBUSDT...
+[2025-02-18 11:25:16] *****************       BNBUSDT    ***************************
+[2025-02-18 11:25:16] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:25:16] Volume: 357.9102, Volume MA: 3061.641906
+[2025-02-18 11:25:16] MA9: 2671.0988888888896, MA21: 2670.5042857142853, RSI: 48.3, MACD: 2.9112820512827966, ATR: 6.597203671668828
+[2025-02-18 11:25:16] ETHUSDT: Price: 2671.5, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:25:16] Checking ETHUSDT...
+[2025-02-18 11:25:16] *****************       ETHUSDT    ***************************
+[2025-02-18 11:25:16] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 11:25:16] Volume: 3.10477, Volume MA: 66.89614639999999
+[2025-02-18 11:25:16] MA9: 95396.61555555562, MA21: 95452.32142857143, RSI: 44.7, MACD: 0.14288461532851215, ATR: 114.44101918847053
+[2025-02-18 11:25:16] BTCUSDT: Price: 95410, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:25:15] Checking BTCUSDT...
+[2025-02-18 11:25:15] *****************       BTCUSDT    ***************************
+[2025-02-18 11:25:15] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:25:15] ****************************************************************
+[2025-02-18 11:25:15] ****************************************************************
+[2025-02-18 11:15:15] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:15:15] Volume: 26559, Volume MA: 1131801.28
+[2025-02-18 11:15:15] MA9: 2.5642444444444448, MA21: 2.565347619047619, RSI: 41.92, MACD: -0.0003641025641019091, ATR: 0.011679985576468049
+[2025-02-18 11:15:15] XRPUSDT: Price: 2.5634, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:15:15] Checking XRPUSDT...
+[2025-02-18 11:15:15] *****************       XRPUSDT    ***************************
+[2025-02-18 11:15:15] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:15:15] Volume: 433.2, Volume MA: 8952.6804
+[2025-02-18 11:15:15] MA9: 23.984444444444435, MA21: 23.979999999999993, RSI: 39.25, MACD: 0.028910256410245694, ATR: 0.09410105945259069
+[2025-02-18 11:15:15] AVAXUSDT: Price: 23.93, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:15:15] Checking AVAXUSDT...
+[2025-02-18 11:15:15] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:15:15] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:15:15] Volume: 661.709, Volume MA: 41009.20478
+[2025-02-18 11:15:15] MA9: 166.16111111111115, MA21: 166.36999999999995, RSI: 37.87, MACD: -0.12634615384612857, ATR: 1.1408996130572746
+[2025-02-18 11:15:15] SOLUSDT: Price: 165.63, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:15:14] Checking SOLUSDT...
+[2025-02-18 11:15:14] *****************       SOLUSDT    ***************************
+[2025-02-18 11:15:14] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:15:14] Volume: 46.401, Volume MA: 1803.3760200000006
+[2025-02-18 11:15:14] MA9: 650.2744444444445, MA21: 648.8014285714285, RSI: 40.27, MACD: 0.668589743589564, ATR: 1.8455765813356937
+[2025-02-18 11:15:14] BNBUSDT: Price: 648.34, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:15:14] Checking BNBUSDT...
+[2025-02-18 11:15:14] *****************       BNBUSDT    ***************************
+[2025-02-18 11:15:14] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:15:14] Volume: 38.9936, Volume MA: 3051.968525999999
+[2025-02-18 11:15:14] MA9: 2671.9300000000007, MA21: 2670.0628571428574, RSI: 43.57, MACD: 3.919615384615099, ATR: 6.927960988804733
+[2025-02-18 11:15:14] ETHUSDT: Price: 2668.79, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:15:14] Checking ETHUSDT...
+[2025-02-18 11:15:14] *****************       ETHUSDT    ***************************
+[2025-02-18 11:15:14] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 11:15:14] Volume: 21.34361, Volume MA: 65.9830034
+[2025-02-18 11:15:14] MA9: 95424.98777777783, MA21: 95449.76047619048, RSI: 35.64, MACD: 25.609423076879466, ATR: 118.63544237131376
+[2025-02-18 11:15:14] BTCUSDT: Price: 95295.14, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:15:13] Checking BTCUSDT...
+[2025-02-18 11:15:13] *****************       BTCUSDT    ***************************
+[2025-02-18 11:15:13] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:15:13] ****************************************************************
+[2025-02-18 11:15:13] ****************************************************************
+[2025-02-18 11:05:13] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:13] Volume: 55722, Volume MA: 1104279.22
+[2025-02-18 11:05:13] MA9: 2.566466666666667, MA21: 2.5657476190476185, RSI: 36.1, MACD: -0.003530769230768449, ATR: 0.01160873354912075
+[2025-02-18 11:05:13] XRPUSDT: Price: 2.5544, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 11:05:13] Checking XRPUSDT...
+[2025-02-18 11:05:13] *****************       XRPUSDT    ***************************
+[2025-02-18 11:05:13] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:13] Volume: 113.22, Volume MA: 8926.504200000001
+[2025-02-18 11:05:13] MA9: 24.004444444444434, MA21: 23.977142857142855, RSI: 40.71, MACD: 0.03416666666667112, ATR: 0.09763689542001777
+[2025-02-18 11:05:13] AVAXUSDT: Price: 23.94, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 11:05:13] Checking AVAXUSDT...
+[2025-02-18 11:05:13] *****************       AVAXUSDT    ***************************
+[2025-02-18 11:05:13] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:13] Volume: 2592.469, Volume MA: 39942.964219999994
+[2025-02-18 11:05:13] MA9: 166.58444444444447, MA21: 166.48238095238088, RSI: 38.69, MACD: -0.4469230769230421, ATR: 1.168744726328245
+[2025-02-18 11:05:13] SOLUSDT: Price: 165.87, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 11:05:12] Checking SOLUSDT...
+[2025-02-18 11:05:12] *****************       SOLUSDT    ***************************
+[2025-02-18 11:05:12] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:12] Volume: 56.359, Volume MA: 1755.6859400000008
+[2025-02-18 11:05:12] MA9: 650.5477777777779, MA21: 648.9776190476189, RSI: 41.33, MACD: -0.11480769230809074, ATR: 1.8536518193272373
+[2025-02-18 11:05:12] BNBUSDT: Price: 648.72, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 11:05:12] Checking BNBUSDT...
+[2025-02-18 11:05:12] *****************       BNBUSDT    ***************************
+[2025-02-18 11:05:12] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:12] Volume: 36.7117, Volume MA: 3000.1813259999994
+[2025-02-18 11:05:12] MA9: 2672.9666666666676, MA21: 2669.3628571428567, RSI: 43.86, MACD: 4.185705128204972, ATR: 6.780937044215476
+[2025-02-18 11:05:12] ETHUSDT: Price: 2668.86, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 11:05:12] Checking ETHUSDT...
+[2025-02-18 11:05:12] *****************       ETHUSDT    ***************************
+[2025-02-18 11:05:12] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 11:05:12] Volume: 2.50946, Volume MA: 65.56787
+[2025-02-18 11:05:12] MA9: 95489.74888888893, MA21: 95458.57476190476, RSI: 38.97, MACD: 43.392884615357616, ATR: 119.2953265262945
+[2025-02-18 11:05:12] BTCUSDT: Price: 95367.44, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 11:05:12] Checking BTCUSDT...
+[2025-02-18 11:05:12] *****************       BTCUSDT    ***************************
+[2025-02-18 11:05:12] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 11:05:11] ****************************************************************
+[2025-02-18 11:05:11] ****************************************************************
+[2025-02-18 10:55:11] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 10:55:11] Volume: 24910, Volume MA: 1086721.88
+[2025-02-18 10:55:11] MA9: 2.5681333333333334, MA21: 2.5678999999999994, RSI: 40.1, MACD: -0.0066480769230770065, ATR: 0.011897820837319507
+[2025-02-18 10:55:11] XRPUSDT: Price: 2.5631, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:55:11] Checking XRPUSDT...
+[2025-02-18 10:55:11] *****************       XRPUSDT    ***************************
+[2025-02-18 10:55:11] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:55:11] Volume: 32.11, Volume MA: 8745.9556
+[2025-02-18 10:55:11] MA9: 24.018888888888885, MA21: 23.978095238095232, RSI: 45.55, MACD: 0.019551282051285312, ATR: 0.1006252200028694
+[2025-02-18 10:55:11] AVAXUSDT: Price: 24.01, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:55:11] Checking AVAXUSDT...
+[2025-02-18 10:55:11] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:55:11] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 10:55:11] Volume: 201.46, Volume MA: 38975.948879999996
+[2025-02-18 10:55:11] MA9: 166.77555555555557, MA21: 166.72380952380948, RSI: 37.91, MACD: -1.091346153846132, ATR: 1.2044682169941785
+[2025-02-18 10:55:11] SOLUSDT: Price: 165.95, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:55:10] Checking SOLUSDT...
+[2025-02-18 10:55:10] *****************       SOLUSDT    ***************************
+[2025-02-18 10:55:10] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:55:10] Volume: 53.81, Volume MA: 1723.4740400000007
+[2025-02-18 10:55:10] MA9: 650.2622222222221, MA21: 649.3790476190477, RSI: 52.77, MACD: -0.913461538462002, ATR: 1.840174831632487
+[2025-02-18 10:55:10] BNBUSDT: Price: 652.41, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:55:10] Checking BNBUSDT...
+[2025-02-18 10:55:10] *****************       BNBUSDT    ***************************
+[2025-02-18 10:55:10] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:55:10] Volume: 14.3617, Volume MA: 2881.3223339999995
+[2025-02-18 10:55:10] MA9: 2673.211111111111, MA21: 2668.6104761904758, RSI: 47.53, MACD: 2.6183974358964406, ATR: 6.964121740380529
+[2025-02-18 10:55:10] ETHUSDT: Price: 2672.3, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:55:10] Checking ETHUSDT...
+[2025-02-18 10:55:10] *****************       ETHUSDT    ***************************
+[2025-02-18 10:55:10] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 10:55:10] Volume: 3.37595, Volume MA: 63.1385282
+[2025-02-18 10:55:10] MA9: 95526.06888888896, MA21: 95461.97, RSI: 44.5, MACD: 38.3279487179243, ATR: 116.80278809864535
+[2025-02-18 10:55:10] BTCUSDT: Price: 95471.68, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:55:10] Checking BTCUSDT...
+[2025-02-18 10:55:10] *****************       BTCUSDT    ***************************
+[2025-02-18 10:55:10] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:55:09] ****************************************************************
+[2025-02-18 10:55:09] ****************************************************************
+[2025-02-18 10:45:09] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:45:09] Volume: 6520, Volume MA: 1078983.56
+[2025-02-18 10:45:09] MA9: 2.566222222222223, MA21: 2.5687761904761905, RSI: 41.07, MACD: -0.010581410256409018, ATR: 0.012748046728314094
+[2025-02-18 10:45:09] XRPUSDT: Price: 2.5659, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:45:09] Checking XRPUSDT...
+[2025-02-18 10:45:09] *****************       XRPUSDT    ***************************
+[2025-02-18 10:45:09] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 10:45:09] Volume: 96.2, Volume MA: 8648.6682
+[2025-02-18 10:45:09] MA9: 23.99555555555555, MA21: 23.965238095238092, RSI: 43.87, MACD: -0.002243589743581964, ATR: 0.1058245809063742
+[2025-02-18 10:45:09] AVAXUSDT: Price: 23.99, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:45:09] Checking AVAXUSDT...
+[2025-02-18 10:45:09] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:45:09] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:45:09] Volume: 342.664, Volume MA: 37796.515380000004
+[2025-02-18 10:45:09] MA9: 166.57666666666668, MA21: 167.01523809523806, RSI: 39.17, MACD: -1.64621794871789, ATR: 1.2651686125627808
+[2025-02-18 10:45:09] SOLUSDT: Price: 166.42, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:45:08] Checking SOLUSDT...
+[2025-02-18 10:45:08] *****************       SOLUSDT    ***************************
+[2025-02-18 10:45:08] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 10:45:08] Volume: 17.03, Volume MA: 1706.4810400000008
+[2025-02-18 10:45:08] MA9: 648.6877777777777, MA21: 649.3171428571429, RSI: 46.22, MACD: -2.4063461538465845, ATR: 1.8878695748930194
+[2025-02-18 10:45:08] BNBUSDT: Price: 650.42, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:45:08] Checking BNBUSDT...
+[2025-02-18 10:45:08] *****************       BNBUSDT    ***************************
+[2025-02-18 10:45:08] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:45:08] Volume: 27.8192, Volume MA: 2735.3297740000003
+[2025-02-18 10:45:08] MA9: 2671.043333333333, MA21: 2667.331428571428, RSI: 47.41, MACD: 0.597756410254533, ATR: 7.508049215022895
+[2025-02-18 10:45:08] ETHUSDT: Price: 2672.26, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:45:08] Checking ETHUSDT...
+[2025-02-18 10:45:08] *****************       ETHUSDT    ***************************
+[2025-02-18 10:45:08] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 75% of conditions met.
+[2025-02-18 10:45:08] Volume: 0.17089, Volume MA: 62.1124058
+[2025-02-18 10:45:08] MA9: 95510.93777777784, MA21: 95449.92476190477, RSI: 44.54, MACD: 5.506538461529999, ATR: 123.25957182178702
+[2025-02-18 10:45:08] BTCUSDT: Price: 95475.24, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:45:07] Checking BTCUSDT...
+[2025-02-18 10:45:07] *****************       BTCUSDT    ***************************
+[2025-02-18 10:45:07] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:45:07] ****************************************************************
+[2025-02-18 10:45:07] ****************************************************************
+[2025-02-18 10:35:07] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 10:35:07] Volume: 4473, Volume MA: 1060019.76
+[2025-02-18 10:35:07] MA9: 2.565500000000001, MA21: 2.5722095238095233, RSI: 47.24, MACD: -0.013375641025640483, ATR: 0.013074713327282654
+[2025-02-18 10:35:07] XRPUSDT: Price: 2.5794, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:35:07] Checking XRPUSDT...
+[2025-02-18 10:35:07] *****************       XRPUSDT    ***************************
+[2025-02-18 10:35:07] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:35:07] Volume: 148.11, Volume MA: 8493.1042
+[2025-02-18 10:35:07] MA9: 23.988888888888894, MA21: 23.96666666666667, RSI: 48.16, MACD: -0.023012820512807508, ATR: 0.10881529347675359
+[2025-02-18 10:35:07] AVAXUSDT: Price: 24.06, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:35:06] Checking AVAXUSDT...
+[2025-02-18 10:35:06] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:35:06] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 10:35:06] Volume: 320.312, Volume MA: 37039.882880000005
+[2025-02-18 10:35:06] MA9: 166.47555555555556, MA21: 167.5085714285714, RSI: 45.07, MACD: -2.058012820512772, ATR: 1.271404485596316
+[2025-02-18 10:35:06] SOLUSDT: Price: 167.95, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:35:06] Checking SOLUSDT...
+[2025-02-18 10:35:06] *****************       SOLUSDT    ***************************
+[2025-02-18 10:35:06] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 10:35:06] Volume: 23.813, Volume MA: 1670.5941200000007
+[2025-02-18 10:35:06] MA9: 647.9488888888886, MA21: 649.7323809523812, RSI: 48.64, MACD: -3.318782051282483, ATR: 1.9528981549817714
+[2025-02-18 10:35:06] BNBUSDT: Price: 651.21, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:35:06] Checking BNBUSDT...
+[2025-02-18 10:35:06] *****************       BNBUSDT    ***************************
+[2025-02-18 10:35:06] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:35:06] Volume: 25.4747, Volume MA: 2679.0604799999996
+[2025-02-18 10:35:06] MA9: 2669.591111111112, MA21: 2667.071428571428, RSI: 50.82, MACD: -0.7514743589763384, ATR: 7.897628578702184
+[2025-02-18 10:35:06] ETHUSDT: Price: 2675.86, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:35:06] Checking ETHUSDT...
+[2025-02-18 10:35:06] *****************       ETHUSDT    ***************************
+[2025-02-18 10:35:06] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:35:06] Volume: 1.98386, Volume MA: 60.9641014
+[2025-02-18 10:35:06] MA9: 95505.95555555561, MA21: 95455.5628571429, RSI: 51.39, MACD: -13.548397435850347, ATR: 122.91238653983285
+[2025-02-18 10:35:06] BTCUSDT: Price: 95613.07, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:35:05] Checking BTCUSDT...
+[2025-02-18 10:35:05] *****************       BTCUSDT    ***************************
+[2025-02-18 10:35:05] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:35:05] ****************************************************************
+[2025-02-18 10:35:05] ****************************************************************
+[2025-02-18 10:25:05] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:05] Volume: 6585, Volume MA: 1038199.76
+[2025-02-18 10:25:05] MA9: 2.563022222222223, MA21: 2.5747714285714283, RSI: 41.39, MACD: -0.018744871794870388, ATR: 0.013702891890609619
+[2025-02-18 10:25:05] XRPUSDT: Price: 2.5679, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:25:05] Checking XRPUSDT...
+[2025-02-18 10:25:05] *****************       XRPUSDT    ***************************
+[2025-02-18 10:25:05] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:05] Volume: 0.63, Volume MA: 8417.929600000001
+[2025-02-18 10:25:05] MA9: 23.97666666666666, MA21: 23.974761904761902, RSI: 45.15, MACD: -0.0705769230769242, ATR: 0.11569631933609426
+[2025-02-18 10:25:05] AVAXUSDT: Price: 24.01, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:25:05] Checking AVAXUSDT...
+[2025-02-18 10:25:05] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:25:05] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:05] Volume: 112.62, Volume MA: 36009.01414000001
+[2025-02-18 10:25:05] MA9: 166.17666666666665, MA21: 167.98428571428565, RSI: 40.54, MACD: -2.7295512820513466, ATR: 1.3453143405319508
+[2025-02-18 10:25:05] SOLUSDT: Price: 167.02, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:25:04] Checking SOLUSDT...
+[2025-02-18 10:25:04] *****************       SOLUSDT    ***************************
+[2025-02-18 10:25:04] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:04] Volume: 1.908, Volume MA: 1627.0833800000005
+[2025-02-18 10:25:04] MA9: 646.942222222222, MA21: 650.1942857142859, RSI: 35.43, MACD: -4.23685897435962, ATR: 1.9082165039201362
+[2025-02-18 10:25:04] BNBUSDT: Price: 647.65, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:25:04] Checking BNBUSDT...
+[2025-02-18 10:25:04] *****************       BNBUSDT    ***************************
+[2025-02-18 10:25:03] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:03] Volume: 12.7565, Volume MA: 2608.0471759999996
+[2025-02-18 10:25:03] MA9: 2667.7911111111116, MA21: 2667.534285714285, RSI: 45.96, MACD: -4.22006410256472, ATR: 7.936761391471867
+[2025-02-18 10:25:03] ETHUSDT: Price: 2669.92, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:25:03] Checking ETHUSDT...
+[2025-02-18 10:25:03] *****************       ETHUSDT    ***************************
+[2025-02-18 10:25:03] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: true, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:25:03] Volume: 0.01154, Volume MA: 60.4656278
+[2025-02-18 10:25:03] MA9: 95468.13777777783, MA21: 95460.67666666668, RSI: 48.27, MACD: -82.28705128199363, ATR: 129.47854054656094
+[2025-02-18 10:25:03] BTCUSDT: Price: 95543.81, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:25:03] Checking BTCUSDT...
+[2025-02-18 10:25:03] *****************       BTCUSDT    ***************************
+[2025-02-18 10:25:03] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:25:03] ****************************************************************
+[2025-02-18 10:25:03] ****************************************************************
+[2025-02-18 10:15:03] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:15:03] Volume: 0, Volume MA: 992483.42
+[2025-02-18 10:15:03] MA9: 2.562611111111112, MA21: 2.5788666666666664, RSI: 30.46, MACD: -0.022855769230769152, ATR: 0.013709128147567305
+[2025-02-18 10:15:03] XRPUSDT: Price: 2.55, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:15:02] Checking XRPUSDT...
+[2025-02-18 10:15:02] *****************       XRPUSDT    ***************************
+[2025-02-18 10:15:02] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:15:02] Volume: 0, Volume MA: 8144.423799999999
+[2025-02-18 10:15:02] MA9: 23.95, MA21: 23.991904761904767, RSI: 39.94, MACD: -0.1153846153846203, ATR: 0.12096859698946633
+[2025-02-18 10:15:02] AVAXUSDT: Price: 23.93, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:15:02] Checking AVAXUSDT...
+[2025-02-18 10:15:02] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:15:02] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:15:02] Volume: 61114.56, Volume MA: 34445.99144
+[2025-02-18 10:15:02] MA9: 166.1677777777778, MA21: 168.95952380952374, RSI: 31.83, MACD: -3.263846153846089, ATR: 1.4516118725784997
+[2025-02-18 10:15:02] SOLUSDT: Price: 165.42, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:15:02] Checking SOLUSDT...
+[2025-02-18 10:15:02] *****************       SOLUSDT    ***************************
+[2025-02-18 10:15:02] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:15:02] Volume: 2102.925, Volume MA: 1576.9803800000007
+[2025-02-18 10:15:02] MA9: 647.478888888889, MA21: 651.7247619047621, RSI: 27.29, MACD: -4.32102564102604, ATR: 2.078195518241656
+[2025-02-18 10:15:02] BNBUSDT: Price: 645.91, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:15:01] Checking BNBUSDT...
+[2025-02-18 10:15:01] *****************       BNBUSDT    ***************************
+[2025-02-18 10:15:01] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: true
+                      Total: 75% of conditions met.
+[2025-02-18 10:15:01] Volume: 3590.1919, Volume MA: 2563.3249139999994
+[2025-02-18 10:15:01] MA9: 2666.19, MA21: 2669.6938095238083, RSI: 41.31, MACD: -9.517692307692869, ATR: 8.890446856660553
+[2025-02-18 10:15:01] ETHUSDT: Price: 2665.21, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:15:01] Checking ETHUSDT...
+[2025-02-18 10:15:01] *****************       ETHUSDT    ***************************
+[2025-02-18 10:15:01] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 10:15:01] Volume: 65.26191, Volume MA: 58.86480240000001
+[2025-02-18 10:15:01] MA9: 95414.13888888893, MA21: 95495.88857142859, RSI: 41.13, MACD: -159.14955128198199, ATR: 144.01033405430317
+[2025-02-18 10:15:01] BTCUSDT: Price: 95402.11, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:15:01] Checking BTCUSDT...
+[2025-02-18 10:15:01] *****************       BTCUSDT    ***************************
+[2025-02-18 10:15:01] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:15:01] ****************************************************************
+[2025-02-18 10:15:01] ****************************************************************
+[2025-02-18 10:05:00] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:05:00] Volume: 1480876, Volume MA: 947879.8
+[2025-02-18 10:05:00] MA9: 2.569322222222223, MA21: 2.588928571428571, RSI: 36.86, MACD: -0.0277467948717951, ATR: 0.014360263165216325
+[2025-02-18 10:05:00] XRPUSDT: Price: 2.5697, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 10:05:00] Checking XRPUSDT...
+[2025-02-18 10:05:00] *****************       XRPUSDT    ***************************
+[2025-02-18 10:05:00] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: true
+                      Total: 75% of conditions met.
+[2025-02-18 10:05:00] Volume: 17306.66, Volume MA: 7863.691999999999
+[2025-02-18 10:05:00] MA9: 23.95777777777777, MA21: 24.0495238095238, RSI: 43.15, MACD: -0.18826923076923308, ATR: 0.12658366059505508
+[2025-02-18 10:05:00] AVAXUSDT: Price: 24.03, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 10:05:00] Checking AVAXUSDT...
+[2025-02-18 10:05:00] *****************       AVAXUSDT    ***************************
+[2025-02-18 10:05:00] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:05:00] Volume: 54988.331, Volume MA: 31544.822759999995
+[2025-02-18 10:05:00] MA9: 166.8722222222222, MA21: 169.80285714285708, RSI: 29.7, MACD: -3.4343589743589007, ATR: 1.369762487852637
+[2025-02-18 10:05:00] SOLUSDT: Price: 166.46, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 10:05:00] Checking SOLUSDT...
+[2025-02-18 10:05:00] *****************       SOLUSDT    ***************************
+[2025-02-18 10:05:00] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:05:00] Volume: 2756.997, Volume MA: 1523.8876400000001
+[2025-02-18 10:05:00] MA9: 648.8511111111111, MA21: 652.8557142857145, RSI: 32.11, MACD: -4.388717948718067, ATR: 1.9972074790783365
+[2025-02-18 10:05:00] BNBUSDT: Price: 648.52, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 10:04:59] Checking BNBUSDT...
+[2025-02-18 10:04:59] *****************       BNBUSDT    ***************************
+[2025-02-18 10:04:59] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: true
+                      Total: 75% of conditions met.
+[2025-02-18 10:04:59] Volume: 4600.7294, Volume MA: 2520.5462839999996
+[2025-02-18 10:04:59] MA9: 2666.093333333334, MA21: 2672.480476190475, RSI: 44.3, MACD: -12.938461538461524, ATR: 8.960564821715348
+[2025-02-18 10:04:59] ETHUSDT: Price: 2670.91, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 10:04:59] Checking ETHUSDT...
+[2025-02-18 10:04:59] *****************       ETHUSDT    ***************************
+[2025-02-18 10:04:59] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: false, MACD > Signal Line: true, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 10:04:59] Volume: 137.92404, Volume MA: 56.482161
+[2025-02-18 10:04:59] MA9: 95413.42888888893, MA21: 95537.39476190477, RSI: 46.65, MACD: -218.50846153839666, ATR: 147.6796476823412
+[2025-02-18 10:04:59] BTCUSDT: Price: 95534.58, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 10:04:59] Checking BTCUSDT...
+[2025-02-18 10:04:59] *****************       BTCUSDT    ***************************
+[2025-02-18 10:04:59] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 10:04:59] ****************************************************************
+[2025-02-18 10:04:59] ****************************************************************
+[2025-02-18 09:54:59] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:54:59] Volume: 1181333, Volume MA: 874368.68
+[2025-02-18 09:54:59] MA9: 2.5723888888888897, MA21: 2.595538095238094, RSI: 29.35, MACD: -0.027356410256410335, ATR: 0.013573198076878982
+[2025-02-18 09:54:59] XRPUSDT: Price: 2.5683, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 09:54:58] Checking XRPUSDT...
+[2025-02-18 09:54:58] *****************       XRPUSDT    ***************************
+[2025-02-18 09:54:58] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: false
+                      Total: 50% of conditions met.
+[2025-02-18 09:54:58] Volume: 3713.6, Volume MA: 7433.0514
+[2025-02-18 09:54:58] MA9: 23.938888888888886, MA21: 24.09095238095237, RSI: 37.58, MACD: -0.22147435897436196, ATR: 0.12241407071670354
+[2025-02-18 09:54:58] AVAXUSDT: Price: 23.99, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 09:54:58] Checking AVAXUSDT...
+[2025-02-18 09:54:58] *****************       AVAXUSDT    ***************************
+[2025-02-18 09:54:58] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 09:54:58] Volume: 32906.15, Volume MA: 29867.937459999994
+[2025-02-18 09:54:58] MA9: 167.44000000000005, MA21: 170.60380952380947, RSI: 24, MACD: -3.2284615384614312, ATR: 1.30193059404352
+[2025-02-18 09:54:58] SOLUSDT: Price: 166.61, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 09:54:58] Checking SOLUSDT...
+[2025-02-18 09:54:58] *****************       SOLUSDT    ***************************
+[2025-02-18 09:54:58] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:54:58] Volume: 4992.44, Volume MA: 1453.9509600000001
+[2025-02-18 09:54:58] MA9: 650.0377777777777, MA21: 653.9509523809526, RSI: 17.2, MACD: -4.150512820512745, ATR: 1.964715228569283
+[2025-02-18 09:54:58] BNBUSDT: Price: 646.43, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 09:54:57] Checking BNBUSDT...
+[2025-02-18 09:54:57] *****************       BNBUSDT    ***************************
+[2025-02-18 09:54:57] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 09:54:57] Volume: 2102.7023, Volume MA: 2422.338154
+[2025-02-18 09:54:57] MA9: 2664.493333333334, MA21: 2675.2276190476186, RSI: 39.15, MACD: -14.646089743590437, ATR: 8.836821104986452
+[2025-02-18 09:54:57] ETHUSDT: Price: 2668.35, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 09:54:57] Checking ETHUSDT...
+[2025-02-18 09:54:57] *****************       ETHUSDT    ***************************
+[2025-02-18 09:54:57] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: true, Volume > 1.3x Volume MA: true
+                      Total: 75% of conditions met.
+[2025-02-18 09:54:57] Volume: 95.78497, Volume MA: 52.799640200000006
+[2025-02-18 09:54:57] MA9: 95395.86000000002, MA21: 95580.56666666668, RSI: 38.27, MACD: -250.26814102561912, ATR: 146.770893220708
+[2025-02-18 09:54:57] BTCUSDT: Price: 95388.42, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 09:54:57] Checking BTCUSDT...
+[2025-02-18 09:54:57] *****************       BTCUSDT    ***************************
+[2025-02-18 09:54:57] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 09:54:57] ****************************************************************
+[2025-02-18 09:54:57] ****************************************************************
+[2025-02-18 09:44:57] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:44:57] Volume: 1481923, Volume MA: 841428.96
+[2025-02-18 09:44:57] MA9: 2.575222222222222, MA21: 2.6023238095238086, RSI: 28.67, MACD: -0.027336538461538495, ATR: 0.014041448560167587
+[2025-02-18 09:44:57] XRPUSDT: Price: 2.5712, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 09:44:56] Checking XRPUSDT...
+[2025-02-18 09:44:56] *****************       XRPUSDT    ***************************
+[2025-02-18 09:44:56] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: false
+                      Total: 25% of conditions met.
+[2025-02-18 09:44:56] Volume: 8354.79, Volume MA: 7244.738
+[2025-02-18 09:44:56] MA9: 23.921111111111106, MA21: 24.13809523809524, RSI: 35.83, MACD: -0.24538461538462641, ATR: 0.122123592725557
+[2025-02-18 09:44:56] AVAXUSDT: Price: 23.99, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 09:44:56] Checking AVAXUSDT...
+[2025-02-18 09:44:56] *****************       AVAXUSDT    ***************************
+[2025-02-18 09:44:56] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:44:56] Volume: 43806.409, Volume MA: 28469.32594
+[2025-02-18 09:44:56] MA9: 168.14555555555563, MA21: 171.37619047619043, RSI: 23.7, MACD: -2.9573076923076087, ATR: 1.325498002165029
+[2025-02-18 09:44:56] SOLUSDT: Price: 167.15, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 09:44:56] Checking SOLUSDT...
+[2025-02-18 09:44:56] *****************       SOLUSDT    ***************************
+[2025-02-18 09:44:56] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:44:56] Volume: 4143.839, Volume MA: 1309.41912
+[2025-02-18 09:44:56] MA9: 651.441111111111, MA21: 655.1904761904765, RSI: 21.56, MACD: -3.7392307692308577, ATR: 1.9742134786433199
+[2025-02-18 09:44:56] BNBUSDT: Price: 648.89, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 09:44:56] Checking BNBUSDT...
+[2025-02-18 09:44:55] *****************       BNBUSDT    ***************************
+[2025-02-18 09:44:55] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:44:55] Volume: 3237.978, Volume MA: 2428.8452119999997
+[2025-02-18 09:44:55] MA9: 2662.826666666666, MA21: 2678.129523809523, RSI: 40.21, MACD: -15.15038461538461, ATR: 8.974237671666264
+[2025-02-18 09:44:55] ETHUSDT: Price: 2670.62, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 09:44:55] Checking ETHUSDT...
+[2025-02-18 09:44:55] *****************       ETHUSDT    ***************************
+[2025-02-18 09:44:55] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:44:55] Volume: 146.56727, Volume MA: 50.1394908
+[2025-02-18 09:44:55] MA9: 95390.56222222226, MA21: 95633.93809523812, RSI: 42.68, MACD: -273.18871794869483, ATR: 138.69049985224277
+[2025-02-18 09:44:55] BTCUSDT: Price: 95509.44, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 09:44:55] Checking BTCUSDT...
+[2025-02-18 09:44:55] *****************       BTCUSDT    ***************************
+[2025-02-18 09:44:55] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 09:44:55] ****************************************************************
+[2025-02-18 09:44:55] ****************************************************************
+[2025-02-18 09:34:55] No Buy Action for XRPUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:55] Volume: 2449455, Volume MA: 808448.12
+[2025-02-18 09:34:55] MA9: 2.584255555555556, MA21: 2.609219047619047, RSI: 25.58, MACD: -0.02549423076923052, ATR: 0.014120810348862858
+[2025-02-18 09:34:55] XRPUSDT: Price: 2.569, USDT Balance: 0, XRP Balance: 0
+[2025-02-18 09:34:54] Checking XRPUSDT...
+[2025-02-18 09:34:54] *****************       XRPUSDT    ***************************
+[2025-02-18 09:34:54] No Buy Action for AVAXUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:54] Volume: 35618.44, Volume MA: 7060.125
+[2025-02-18 09:34:54] MA9: 23.965555555555557, MA21: 24.19428571428572, RSI: 26.43, MACD: -0.24621794871795188, ATR: 0.12073615814940987
+[2025-02-18 09:34:54] AVAXUSDT: Price: 23.91, USDT Balance: 0, AVAX Balance: 0
+[2025-02-18 09:34:54] Checking AVAXUSDT...
+[2025-02-18 09:34:54] *****************       AVAXUSDT    ***************************
+[2025-02-18 09:34:54] No Buy Action for SOLUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:54] Volume: 216313.337, Volume MA: 26737.718620000003
+[2025-02-18 09:34:54] MA9: 169.41777777777784, MA21: 172.19904761904758, RSI: 16.79, MACD: -2.5965384615384153, ATR: 1.3278326591775165
+[2025-02-18 09:34:54] SOLUSDT: Price: 166.41, USDT Balance: 0, SOL Balance: 0
+[2025-02-18 09:34:54] Checking SOLUSDT...
+[2025-02-18 09:34:54] *****************       SOLUSDT    ***************************
+[2025-02-18 09:34:54] No Buy Action for BNBUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:54] Volume: 8398.318, Volume MA: 1165.37614
+[2025-02-18 09:34:54] MA9: 653.0944444444444, MA21: 656.3504761904763, RSI: 21.99, MACD: -3.1699358974356073, ATR: 1.9507654003517412
+[2025-02-18 09:34:54] BNBUSDT: Price: 649.76, USDT Balance: 0, BNB Balance: 0
+[2025-02-18 09:34:54] Checking BNBUSDT...
+[2025-02-18 09:34:54] *****************       BNBUSDT    ***************************
+[2025-02-18 09:34:54] No Buy Action for ETHUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:54] Volume: 6750.359, Volume MA: 2343.780622
+[2025-02-18 09:34:54] MA9: 2665.8999999999996, MA21: 2681.230476190476, RSI: 31.46, MACD: -14.259358974360111, ATR: 8.774156004858874
+[2025-02-18 09:34:54] ETHUSDT: Price: 2664.22, USDT Balance: 0, ETH Balance: 0
+[2025-02-18 09:34:53] Checking ETHUSDT...
+[2025-02-18 09:34:53] *****************       ETHUSDT    ***************************
+[2025-02-18 09:34:53] No Buy Action for BTCUSDT: Conditions not met. MA9 > MA21: false, RSI < 45: true, MACD > Signal Line: false, Volume > 1.3x Volume MA: true
+                      Total: 50% of conditions met.
+[2025-02-18 09:34:53] Volume: 171.10689, Volume MA: 45.2402878
+[2025-02-18 09:34:53] MA9: 95447.17666666668, MA21: 95694.29142857145, RSI: 29.73, MACD: -266.2475641024939, ATR: 128.45289866889334
+[2025-02-18 09:34:53] BTCUSDT: Price: 95328.07, USDT Balance: 0, BTC Balance: 0
+[2025-02-18 09:34:53] Checking BTCUSDT...
+[2025-02-18 09:34:53] *****************       BTCUSDT    ***************************
+[2025-02-18 09:34:53] Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.
+[2025-02-18 09:34:53] Trading bot started...
+[2025-02-18 09:34:53] ----------------------------------------------------------------

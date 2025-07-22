@@ -1,0 +1,404 @@
+[
+  {
+    "time": "2025-07-19 09:01:13",
+    "message": "No Buy Action: 0% conditions met. MA9>3.458280952380951: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "No Buy Action: 0% conditions met. MA9>23.847619047619045: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "No Buy Action: 50% conditions met. MA9>177.36380952380955: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:12",
+    "message": "No Buy Action: 0% conditions met. MA9>736.1185714285714: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:11",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:11",
+    "message": "No Buy Action: 25% conditions met. MA9>3586.9585714285718: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:11",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:11",
+    "message": "No Buy Action: 50% conditions met. MA9>118180.13476190476: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:11",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 09:01:09",
+    "message": "****************************************************************",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:09",
+    "message": "No Buy Action: 0% conditions met. MA9>3.458028571428568: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:09",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:09",
+    "message": "No Buy Action: 0% conditions met. MA9>23.84809523809524: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:09",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:09",
+    "message": "No Buy Action: 50% conditions met. MA9>177.3552380952381: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "No Buy Action: 0% conditions met. MA9>736.2304761904765: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "No Buy Action: 0% conditions met. MA9>3587.4409523809527: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:08",
+    "message": "No Buy Action: 50% conditions met. MA9>118183.96476190478: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:07",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:56:06",
+    "message": "****************************************************************",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:06",
+    "message": "No Buy Action: 25% conditions met. MA9>3.4582619047619017: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "No Buy Action: 0% conditions met. MA9>23.853333333333335: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "No Buy Action: 50% conditions met. MA9>177.35285714285715: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "No Buy Action: 0% conditions met. MA9>736.3109523809525: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:05",
+    "message": "No Buy Action: 0% conditions met. MA9>3588.042380952381: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:04",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:04",
+    "message": "No Buy Action: 25% conditions met. MA9>118190.26380952384: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:04",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:51:03",
+    "message": "****************************************************************",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:03",
+    "message": "No Buy Action: 0% conditions met. MA9>3.4595380952380927: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "No Buy Action: 0% conditions met. MA9>23.863333333333333: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "No Buy Action: 25% conditions met. MA9>177.3790476190476: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:02",
+    "message": "No Buy Action: 0% conditions met. MA9>736.4152380952381: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:01",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:01",
+    "message": "No Buy Action: 0% conditions met. MA9>3589.128571428572: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:01",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:01",
+    "message": "No Buy Action: 25% conditions met. MA9>118197.69142857144: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:46:01",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:45:59",
+    "message": "Trading bot started...",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:45:59",
+    "message": "----------------------------------------------------------------",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:01",
+    "message": "No Buy Action: 0% conditions met. MA9>3.4594095238095215: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "No Buy Action: 0% conditions met. MA9>23.865238095238094: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "No Buy Action: 25% conditions met. MA9>177.3704761904762: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:42:00",
+    "message": "No Buy Action: 0% conditions met. MA9>736.3976190476191: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:59",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:59",
+    "message": "No Buy Action: 0% conditions met. MA9>3589.200952380953: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:59",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:59",
+    "message": "No Buy Action: 0% conditions met. MA9>118198.28761904764: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:59",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:57",
+    "message": "Trading bot started...",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-19 08:41:57",
+    "message": "----------------------------------------------------------------",
+    "symbol": null,
+    "type": "INFO"
+  }
+]

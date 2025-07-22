@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trading Bot Dashboard</title>
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .log-group summary {
+      cursor: pointer;
+      background: #f0f0f0;
+      padding: 8px 12px;
+      margin-bottom: 5px;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+    .log-group summary:hover {
+      background: #e0e0e0;
+    }
+    .log-group .log-entry {
+      margin-left: 20px;
+    }
+    .log-icon.BUY { color: green; }
+    .log-icon.SELL { color: red; }
+    .log-icon.INFO { color: #0077cc; }
+    .log-icon.ERROR { color: #cc0000; }
+    .log-type-icon {
+      font-weight: bold;
+      display: inline-block;
+      width: 20px;
+      text-align: center;
+    }
+    details.section {
+      margin-bottom: 2rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 10px;
+      background: #f9f9f9;
+    }
+    details.section summary {
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>📈 Trading Bot Dashboard</h1>
+
+  <div style="text-align: center; margin-bottom: 20px;">
+    <button onclick="location.reload()">🔄 Refresh Now</button>
+  </div>
+
+<details class="section" open>
+  <summary>🕒 Latest Log per Symbol</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Symbol</th>
+        <th>Time</th>
+        <th>Type</th>
+        <th>Score</th>
+        <th>Message</th>
+      </tr>
+    </thead>
+    <tbody>
+
+            <% 
+      const groupedLogs = structuredLogs.reduce((acc, log) => {
+        const key = log.symbol || 'General';
+        if (!acc[key]) acc[key] = [];
+        acc[key].push(log);
+        return acc;
+      }, {});
+
+      const logTypeEmoji = {
+        BUY: '✔️',
+        SELL: '💰',
+        INFO: 'ℹ️',
+        ERROR: '⚠️'
+      };
+    %>
+    
+    <% Object.entries(groupedLogs).forEach(([symbol, logs])=> {
+      const last = logs[0]; // Assuming newest first
+      %>
+      <tr>
+        <td><strong>
+            <%= symbol %>
+          </strong></td>
+        <td>
+          <%= last.time %>
+        </td>
+        <td>
+          <span class="log-type-icon">
+            <%= logTypeEmoji[last.type] || '' %>
+          </span>
+          <%= last.type %>
+        </td>
+        <td>
+          <% const match=last.message.match(/Score: (\d+)/); %>
+            <% if (match) { const scoreClass=match[1]>= 80 ? 'score-green' : match[1] >= 60 ? 'score-orange' : 'score-red';
+              %>
+              <span class="<%= scoreClass %>">
+                <%= match[1] %>%
+              </span>
+              <% } else { %>
+                -
+                <% } %>
+        </td>
+        <% const scoreLog=logs.find(log=> log.message.includes('Score:'));
+          const scoreMatch = scoreLog?.message.match(/Score: (\d+)/);
+          %>
+          <td>
+            <% if (scoreMatch) { const scoreClass=scoreMatch[1]>= 80 ? 'score-green' : scoreMatch[1] >= 60 ? 'score-orange'
+              : 'score-red';
+              %>
+              <span class="<%= scoreClass %>">
+                <%= scoreMatch[1] %>%
+              </span>
+              <% } else { %>
+                -
+                <% } %>
+          </td>
+          <td>
+            <%= last.message %>
+          </td>
+      </tr>
+    
+      <% }) %>
+        </tbody>
+  </table>
+</details>
+
+
+  <details class="section" open>
+    <summary>💰 Current Balances</summary>
+    <table>
+      <thead>
+        <tr>
+          <th>Asset</th>
+          <th>Balance</th>
+          <th>≈ USDT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% Object.entries(balance).forEach(([asset, amount]) => { %>
+          <tr>
+            <td><%= asset %></td>
+            <td><%= amount.amount %></td>
+            <td><%= amount.usdtValue !== null ? '$' + amount.usdtValue.toFixed(2) : '-' %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </details>
+
+  <details class="section" open>
+    <summary>📊 Open Trades</summary>
+    <table>
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Buy Price</th>
+          <th>Stop Loss</th>
+          <th>Take Profit</th>
+          <th>Highest Since Buy</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% Object.entries(data).forEach(([symbol, info]) => { %>
+          <tr>
+            <td><%= symbol %></td>
+            <td><%= info.buyPrice ?? '-' %></td>
+            <td><%= info.stopLossPrice ?? '-' %></td>
+            <td><%= info.takeProfitPrice ?? '-' %></td>
+            <td><%= info.highestPriceSinceBuy ?? '-' %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </details>
+
+  <details class="section">
+    <summary>📈 Live Chart</summary>
+    <select id="chartSymbol" onchange="updateChart()" style="padding: 5px; margin-bottom: 1rem;">
+      <% Object.keys(data).forEach(symbol => { %>
+        <option value="<%= symbol %>"><%= symbol %></option>
+      <% }) %>
+    </select>
+    <div id="tradingview-widget-container" style="height: 500px;">
+      <div id="tradingview_chart"></div>
+    </div>
+  </details>
+
+  <details class="section">
+    <summary>📋 Structured Logs (<%= logFileName %>)</summary>
+
+    <div style="margin-bottom: 1rem;">
+      <label for="logFilter"><strong>🔎 Filter Logs by Symbol:</strong></label>
+      <input type="text" id="logFilter" placeholder="e.g. BTCUSDT" oninput="filterLogs()" style="padding: 5px; width: 200px;">
+    </div>
+
+    <% Object.entries(groupedLogs).forEach(([symbol, logs]) => { %>
+      <details class="log-group" data-symbol="<%= symbol.toLowerCase() %>">
+        <summary>
+          <strong><%= symbol %></strong> 🔍 
+          (<%= logs.length %> entries)
+          <% const lastType = logs[0]?.type; %>
+          <span class="log-icon <%= lastType %>">●</span>
+        </summary>
+        <% logs.forEach(log => { %>
+          <div class="log-entry <%= log.type.toLowerCase() %>">
+            <div class="log-header">
+              <span class="log-type-icon"><%= logTypeEmoji[log.type] || '' %></span>
+              <strong><%= log.time %></strong> | <span class="type"><%= log.type %></span>
+            </div>
+            <div class="log-msg"><%= log.message %></div>
+          </div>
+        <% }) %>
+      </details>
+    <% }) %>
+  </details>
+
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script>
+    function updateChart() {
+      const symbol = document.getElementById('chartSymbol').value;
+      if (window.tvWidget) window.tvWidget.remove();
+      window.tvWidget = new TradingView.widget({
+        container_id: "tradingview_chart",
+        width: "100%",
+        height: 500,
+        symbol: symbol.replace('USDT', 'USD'),
+        interval: "5",
+        timezone: "Etc/UTC",
+        theme: "light",
+        style: "1",
+        locale: "en",
+        toolbar_bg: "#f1f3f6",
+        enable_publishing: false,
+        allow_symbol_change: true,
+        hide_side_toolbar: false,
+        withdateranges: true,
+        studies: ["MACD@tv-basicstudies", "RSI@tv-basicstudies", "Volume@tv-basicstudies"]
+      });
+    }
+
+    window.addEventListener('DOMContentLoaded', updateChart);
+
+    function filterLogs() {
+      const filter = document.getElementById('logFilter').value.toLowerCase();
+      document.querySelectorAll('.log-group').forEach(group => {
+        const symbol = group.getAttribute('data-symbol');
+        group.style.display = symbol.includes(filter) ? '' : 'none';
+      });
+    }
+  </script>
+
+<script>
+  function sortTable(header, columnIndex) {
+    const table = header.closest("table");
+    const tbody = table.querySelector("tbody");
+    const rows = Array.from(tbody.querySelectorAll("tr"));
+    const asc = !header.asc;
+    header.asc = asc;
+
+    rows.sort((a, b) => {
+      const aText = a.children[columnIndex].textContent.trim().replace('%','');
+      const bText = b.children[columnIndex].textContent.trim().replace('%','');
+      const aVal = parseFloat(aText) || aText;
+      const bVal = parseFloat(bText) || bText;
+
+      if (aVal < bVal) return asc ? -1 : 1;
+      if (aVal > bVal) return asc ? 1 : -1;
+      return 0;
+    });
+
+    rows.forEach(row => tbody.appendChild(row));
+  }
+
+  document.querySelectorAll("th").forEach((th, i) => {
+    th.style.cursor = "pointer";
+    th.onclick = () => sortTable(th, i);
+  });
+
+window.addEventListener('DOMContentLoaded', () => {
+  const firstTable = document.querySelectorAll('table')[0];
+  const messageHeader = firstTable.querySelectorAll('th')[4]; // Message column
+  messageHeader.asc = true; // ascending order by default
+  sortTable(messageHeader, 4);
+});
+
+
+</script>
+
+</body>
+</html>
