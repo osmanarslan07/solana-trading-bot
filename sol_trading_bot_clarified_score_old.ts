@@ -1,5 +1,4 @@
 import fetch from 'node-fetch';
-
 import axios from 'axios';
 const blacklistedSymbols = [
   'LUNCUSDT', 'BNBUSDT', 'USDCUSDT',
@@ -308,6 +307,7 @@ if (!tradeData[SYMBOL].buyPrice && score >= 80) {
           tradeData[SYMBOL].buyPrice = await placeOrder(SYMBOL, 'BUY', positionSize);
           fs.writeFileSync('dashboard/trade_data.json', JSON.stringify(tradeData, null, 2));
           logMessage(`Buy action executed for ${SYMBOL}. Score: ${score}. Reason: MA9 > MA21, RSI < 45, MACD bull cross, Volume confirmation.`, SYMBOL, 'BUY');
+          
         } else {
           const conditionWeight = 25;
           let trueConditions = 0;
@@ -348,5 +348,3 @@ if (!tradeData[SYMBOL].buyPrice && score >= 80) {
 }
 
 run();
-    
-
