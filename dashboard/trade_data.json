@@ -286,5 +286,11 @@
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
+  },
+  "TONUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
   }
 }
