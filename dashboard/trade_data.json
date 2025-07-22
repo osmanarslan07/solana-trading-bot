@@ -29,19 +29,13 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "ENAUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
   "PEPEUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "ADAUSDT": {
+  "ENAUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -53,7 +47,13 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "BNBUSDT": {
+  "PENGUUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "ADAUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -65,19 +65,13 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "PENGUUSDT": {
+  "BONKUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
   "UNIUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "BONKUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -95,6 +89,12 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
+  "HBARUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
   "AVAXUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
@@ -107,19 +107,19 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "HBARUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "CFXUSDT": {
+  "SPKUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
   "LINKUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "CFXUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -143,13 +143,7 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "APTUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "SPKUSDT": {
+  "WLDUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -161,19 +155,19 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "WLDUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "PNUTUSDT": {
+  "APTUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
   "AAVEUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "PNUTUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -191,13 +185,7 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "DIAUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "OMUSDT": {
+  "TONUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -209,25 +197,7 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "SEIUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "CUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "NEARUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "DOTUSDT": {
+  "OMUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -239,13 +209,19 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "FETUSDT": {
+  "NEARUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "BCHUSDT": {
+  "SEIUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "DOTUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -257,13 +233,19 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "CRVUSDT": {
+  "CUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
-  "ETHFIUSDT": {
+  "FETUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "CRVUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,
@@ -275,19 +257,25 @@
     "takeProfitPrice": null,
     "highestPriceSinceBuy": null
   },
+  "DIAUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "ETHFIUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
+  "BCHUSDT": {
+    "buyPrice": null,
+    "stopLossPrice": null,
+    "takeProfitPrice": null,
+    "highestPriceSinceBuy": null
+  },
   "OPUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "LDOUSDT": {
-    "buyPrice": null,
-    "stopLossPrice": null,
-    "takeProfitPrice": null,
-    "highestPriceSinceBuy": null
-  },
-  "TONUSDT": {
     "buyPrice": null,
     "stopLossPrice": null,
     "takeProfitPrice": null,

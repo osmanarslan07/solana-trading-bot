@@ -1,6 +1,7 @@
+import fetch from 'node-fetch';
 import axios from 'axios';
 const blacklistedSymbols = [
-  'LUNCUSDT', 'USDCUSDT',
+  'LUNCUSDT', 'BNBUSDT', 'USDCUSDT',
   'BUSDUSDT', 'DAIUSDT', 'TUSDUSDT', 'FDUSDUSDT',
   'WBTCUSDT', 'WETHUSDT',
   'USTCUSDT', 'GUSDUSDT', 'USDPUSDT'
@@ -13,12 +14,19 @@ const { SMA, RSI, MACD, ATR } = require('technicalindicators');
 const { format } = require('date-fns');
 const { toZonedTime } = require('date-fns-tz');
 
+
 dotenv.config();
 
 const binance = Binance({
   apiKey: process.env.BINANCE_API_KEY,
   apiSecret: process.env.BINANCE_API_SECRET,
+  getTime: async () => {
+    const res = await fetch('https://api.binance.com/api/v3/time');
+    const data = await res.json();
+    return data.serverTime;
+  }
 });
+
 
 async function getTradableSymbols(): Promise<string[]> {
   const res = await axios.get('https://api.binance.com/api/v3/exchangeInfo');
