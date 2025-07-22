@@ -1,5 +1,629 @@
 [
   {
+    "time": "2025-07-22 17:08:10",
+    "message": "Checking NEIROUSDT...",
+    "symbol": "NEIROUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:10",
+    "message": "No Buy Action: 50% conditions met. MA9>3.361: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
+    "symbol": "TONUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:10",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "TONUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:10",
+    "message": "Checking TONUSDT...",
+    "symbol": "TONUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:10",
+    "message": "No Buy Action: 50% conditions met. MA9>433.27142857142877: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "TAOUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:10",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "TAOUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Checking TAOUSDT...",
+    "symbol": "TAOUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "No Buy Action: 25% conditions met. MA9>1.5430476190476181: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
+    "symbol": "UMAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "UMAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Checking UMAUSDT...",
+    "symbol": "UMAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "No Buy Action: 25% conditions met. MA9>0.3147952380952382: false, RSI<45: false, MACD>Signal: false, Volume OK: true",
+    "symbol": "PNUTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "PNUTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Checking PNUTUSDT...",
+    "symbol": "PNUTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "No Buy Action: 50% conditions met. MA9>309.12142857142874: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "AAVEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:09",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "AAVEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Checking AAVEUSDT...",
+    "symbol": "AAVEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "No Buy Action: 50% conditions met. MA9>5.273333333333333: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "APTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "APTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Checking APTUSDT...",
+    "symbol": "APTUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "No Buy Action: 25% conditions met. MA9>0.46705238095238083: false, RSI<45: false, MACD>Signal: false, Volume OK: true",
+    "symbol": "ARBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "ARBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Checking ARBUSDT...",
+    "symbol": "ARBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "No Buy Action: 0% conditions met. MA9>1.2370952380952378: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "WLDUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:08",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "WLDUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "Checking WLDUSDT...",
+    "symbol": "WLDUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "No Buy Action: 50% conditions met. MA9>0.4610619047619047: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "XLMUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "XLMUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "Checking XLMUSDT...",
+    "symbol": "XLMUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "No Buy Action: 25% conditions met. MA9>1.2248428571428565: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
+    "symbol": "ERAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:07",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "ERAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "Checking ERAUSDT...",
+    "symbol": "ERAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "No Buy Action: 25% conditions met. MA9>0.00014093857142857152: false, RSI<45: false, MACD>Signal: false, Volume OK: true",
+    "symbol": "FLOKIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "FLOKIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "Checking FLOKIUSDT...",
+    "symbol": "FLOKIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "No Buy Action: 50% conditions met. MA9>0.18677619047619046: false, RSI<45: true, MACD>Signal: true, Volume OK: false",
+    "symbol": "CFXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:06",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "CFXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Checking CFXUSDT...",
+    "symbol": "CFXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "No Buy Action: 0% conditions met. MA9>0.0765775238095238: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "SPKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "SPKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Checking SPKUSDT...",
+    "symbol": "SPKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "No Buy Action: 50% conditions met. MA9>19.103809523809524: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "LINKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "LINKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Checking LINKUSDT...",
+    "symbol": "LINKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "No Buy Action: 50% conditions met. MA9>25.410952380952388: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:05",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Checking AVAXUSDT...",
+    "symbol": "AVAXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "No Buy Action: 50% conditions met. MA9>115.01333333333325: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "LTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "LTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Checking LTCUSDT...",
+    "symbol": "LTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "No Buy Action: 50% conditions met. MA9>0.2661347619047619: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "HBARUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "HBARUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Checking HBARUSDT...",
+    "symbol": "HBARUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "No Buy Action: 50% conditions met. MA9>10.806666666666672: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "TRUMPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "TRUMPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Checking TRUMPUSDT...",
+    "symbol": "TRUMPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "No Buy Action: 50% conditions met. MA9>1.1878571428571432: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "WIFUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:04",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "WIFUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Checking WIFUSDT...",
+    "symbol": "WIFUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "No Buy Action: 50% conditions met. MA9>10.423857142857143: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "UNIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "UNIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Checking UNIUSDT...",
+    "symbol": "UNIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "No Buy Action: 25% conditions met. MA9>0.000034990476190476186: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
+    "symbol": "BONKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "BONKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Checking BONKUSDT...",
+    "symbol": "BONKUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "No Buy Action: 50% conditions met. MA9>0.31292380952380955: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "TRXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:03",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "TRXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Checking TRXUSDT...",
+    "symbol": "TRXUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "No Buy Action: 75% conditions met. MA9>0.03941766666666665: true, RSI<45: false, MACD>Signal: true, Volume OK: true",
+    "symbol": "PENGUUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "PENGUUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Checking PENGUUSDT...",
+    "symbol": "PENGUUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "No Buy Action: 25% conditions met. MA9>763.4519047619046: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Checking BNBUSDT...",
+    "symbol": "BNBUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "No Buy Action: 50% conditions met. MA9>0.8733047619047621: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "ADAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:02",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "ADAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Checking ADAUSDT...",
+    "symbol": "ADAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "No Buy Action: 75% conditions met. MA9>3.905685714285715: true, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "SUIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "SUIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Checking SUIUSDT...",
+    "symbol": "SUIUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "No Buy Action: 50% conditions met. MA9>0.498157142857143: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "ENAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
+    "symbol": "ENAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Checking ENAUSDT...",
+    "symbol": "ENAUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "No Buy Action: 50% conditions met. MA9>0.000013797619047619044: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "PEPEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "PEPEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Checking PEPEUSDT...",
+    "symbol": "PEPEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Skipping blacklisted symbol: FDUSDUSDT",
+    "symbol": "FDUSDUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "No Buy Action: 50% conditions met. MA9>0.2647680952380953: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "DOGEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:01",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "DOGEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Checking DOGEUSDT...",
+    "symbol": "DOGEUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "No Buy Action: 50% conditions met. MA9>3.507338095238096: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Checking XRPUSDT...",
+    "symbol": "XRPUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Skipping blacklisted symbol: USDCUSDT",
+    "symbol": "USDCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "No Buy Action: 50% conditions met. MA9>201.00809523809525: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Checking SOLUSDT...",
+    "symbol": "SOLUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "No Buy Action: 50% conditions met. MA9>119025.33047619046: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:08:00",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:07:59",
+    "message": "Checking BTCUSDT...",
+    "symbol": "BTCUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:07:59",
+    "message": "No Buy Action: 50% conditions met. MA9>3684.806190476192: false, RSI<45: true, MACD>Signal: false, Volume OK: true",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:07:59",
+    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:07:59",
+    "message": "Checking ETHUSDT...",
+    "symbol": "ETHUSDT",
+    "type": "INFO"
+  },
+  {
+    "time": "2025-07-22 17:07:58",
+    "message": "Error getting balances: Error: Timestamp for this request was 1000ms ahead of the server's time.",
+    "symbol": null,
+    "type": "ERROR"
+  },
+  {
+    "time": "2025-07-22 17:07:57",
+    "message": "****************************************************************",
+    "symbol": null,
+    "type": "INFO"
+  },
+  {
     "time": "2025-07-22 17:02:57",
     "message": "No Buy Action: 50% conditions met. MA9>0.760571428571428: false, RSI<45: true, MACD>Signal: true, Volume OK: false",
     "symbol": "OPUSDT",
@@ -5373,630 +5997,6 @@
     "time": "2025-07-22 16:31:08",
     "message": "Checking BCHUSDT...",
     "symbol": "BCHUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "No Buy Action: 0% conditions met. MA9>1.279047619047619: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "ETHFIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "ETHFIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "Checking ETHFIUSDT...",
-    "symbol": "ETHFIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "No Buy Action: 25% conditions met. MA9>0.36916190476190464: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "LAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
-    "symbol": "LAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:08",
-    "message": "Checking LAUSDT...",
-    "symbol": "LAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "No Buy Action: 50% conditions met. MA9>0.9350809523809521: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "CRVUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "CRVUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Checking CRVUSDT...",
-    "symbol": "CRVUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "No Buy Action: 25% conditions met. MA9>1.8521285714285707: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "VIRTUALUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "VIRTUALUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Checking VIRTUALUSDT...",
-    "symbol": "VIRTUALUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "No Buy Action: 0% conditions met. MA9>0.7998571428571429: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "FETUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "FETUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Checking FETUSDT...",
-    "symbol": "FETUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "No Buy Action: 25% conditions met. MA9>0.33132380952380963: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "CUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:07",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "CUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Checking CUSDT...",
-    "symbol": "CUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "No Buy Action: 0% conditions met. MA9>0.34255238095238094: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "SEIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "SEIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Checking SEIUSDT...",
-    "symbol": "SEIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "No Buy Action: 25% conditions met. MA9>4.410285714285716: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "DOTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
-    "symbol": "DOTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Checking DOTUSDT...",
-    "symbol": "DOTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "No Buy Action: 0% conditions met. MA9>2.9558571428571425: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "NEARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:06",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "NEARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Checking NEARUSDT...",
-    "symbol": "NEARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "No Buy Action: 0% conditions met. MA9>0.000015118571428571424: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "SHIBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "SHIBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Checking SHIBUSDT...",
-    "symbol": "SHIBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "No Buy Action: 50% conditions met. MA9>1.016957142857143: false, RSI<45: true, MACD>Signal: true, Volume OK: false",
-    "symbol": "DIAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "DIAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Checking DIAUSDT...",
-    "symbol": "DIAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "No Buy Action: 50% conditions met. MA9>0.3084666666666665: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "OMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:05",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "OMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Checking OMUSDT...",
-    "symbol": "OMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "No Buy Action: 25% conditions met. MA9>0.0005307904761904762: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "NEIROUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "NEIROUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Checking NEIROUSDT...",
-    "symbol": "NEIROUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "No Buy Action: 25% conditions met. MA9>433.61428571428604: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "TAOUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "TAOUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Checking TAOUSDT...",
-    "symbol": "TAOUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "No Buy Action: 25% conditions met. MA9>310.74571428571437: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "AAVEUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "AAVEUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Checking AAVEUSDT...",
-    "symbol": "AAVEUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "No Buy Action: 25% conditions met. MA9>1.552952380952381: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "UMAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:04",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "UMAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Checking UMAUSDT...",
-    "symbol": "UMAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "No Buy Action: 50% conditions met. MA9>0.3149857142857143: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "PNUTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "PNUTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Checking PNUTUSDT...",
-    "symbol": "PNUTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "No Buy Action: 50% conditions met. MA9>5.294380952380953: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "APTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "APTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Checking APTUSDT...",
-    "symbol": "APTUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "No Buy Action: 50% conditions met. MA9>0.46820476190476185: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "ARBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:03",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "ARBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Checking ARBUSDT...",
-    "symbol": "ARBUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "No Buy Action: 25% conditions met. MA9>1.235714285714285: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "WLDUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "WLDUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Checking WLDUSDT...",
-    "symbol": "WLDUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "No Buy Action: 0% conditions met. MA9>0.463152380952381: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "XLMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "XLMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Checking XLMUSDT...",
-    "symbol": "XLMUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "No Buy Action: 25% conditions met. MA9>1.2287952380952376: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "ERAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:02",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "ERAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Checking ERAUSDT...",
-    "symbol": "ERAUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "No Buy Action: 25% conditions met. MA9>0.00014163238095238098: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "FLOKIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "FLOKIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Checking FLOKIUSDT...",
-    "symbol": "FLOKIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "No Buy Action: 50% conditions met. MA9>0.18821904761904765: false, RSI<45: true, MACD>Signal: true, Volume OK: false",
-    "symbol": "CFXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "CFXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Checking CFXUSDT...",
-    "symbol": "CFXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "No Buy Action: 0% conditions met. MA9>0.07691538095238096: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "SPKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "SPKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "Checking SPKUSDT...",
-    "symbol": "SPKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:01",
-    "message": "No Buy Action: 25% conditions met. MA9>19.176190476190484: false, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "LINKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:00",
-    "message": "Score: 30 (No buy. Waiting for score ≥ 80)",
-    "symbol": "LINKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:00",
-    "message": "Checking LINKUSDT...",
-    "symbol": "LINKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:00",
-    "message": "No Buy Action: 25% conditions met. MA9>25.534761904761904: true, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "AVAXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:31:00",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "AVAXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "Checking AVAXUSDT...",
-    "symbol": "AVAXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "No Buy Action: 0% conditions met. MA9>0.26694809523809526: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "HBARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "HBARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "Checking HBARUSDT...",
-    "symbol": "HBARUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "No Buy Action: 0% conditions met. MA9>115.56761904761903: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "LTCUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:59",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "LTCUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:58",
-    "message": "Checking LTCUSDT...",
-    "symbol": "LTCUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:58",
-    "message": "No Buy Action: 50% conditions met. MA9>10.836190476190477: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "TRUMPUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:58",
-    "message": "Score: 30 (No buy. Waiting for score ≥ 80)",
-    "symbol": "TRUMPUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Checking TRUMPUSDT...",
-    "symbol": "TRUMPUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "No Buy Action: 25% conditions met. MA9>1.1973809523809527: false, RSI<45: true, MACD>Signal: false, Volume OK: false",
-    "symbol": "WIFUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "WIFUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Checking WIFUSDT...",
-    "symbol": "WIFUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "No Buy Action: 50% conditions met. MA9>0.00003476476190476191: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "BONKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "BONKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Checking BONKUSDT...",
-    "symbol": "BONKUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "No Buy Action: 0% conditions met. MA9>10.479904761904763: false, RSI<45: false, MACD>Signal: false, Volume OK: false",
-    "symbol": "UNIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:57",
-    "message": "Score: 0 (No buy. Waiting for score ≥ 80)",
-    "symbol": "UNIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "Checking UNIUSDT...",
-    "symbol": "UNIUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "No Buy Action: 50% conditions met. MA9>0.038185476190476186: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "PENGUUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
-    "symbol": "PENGUUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "Checking PENGUUSDT...",
-    "symbol": "PENGUUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "No Buy Action: 50% conditions met. MA9>0.3130761904761907: true, RSI<45: false, MACD>Signal: true, Volume OK: false",
-    "symbol": "TRXUSDT",
-    "type": "INFO"
-  },
-  {
-    "time": "2025-07-22 16:30:56",
-    "message": "Score: 20 (No buy. Waiting for score ≥ 80)",
-    "symbol": "TRXUSDT",
     "type": "INFO"
   }
 ]
